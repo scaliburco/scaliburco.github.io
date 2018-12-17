@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre pycon colombia)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/categories/pycon-colombia.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2018 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+&lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 17 Dec 2018 02:12:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Scalibur en PyCon 2018</title><link>http://scaliburco.github.io/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
+nivel nacional e internacional ha sido un elemento importante para la formación
+complementaria.&lt;/p&gt;
+&lt;p&gt;Así, es como entre el año anterior y el presente nos hemos integrado a las
+campañas internacionales de búsqueda de asteroides dando como resultado el
+redescubrimiento de un asteroide y el registro de múltiples candidatos a
+asteroides.&lt;/p&gt;
+&lt;p&gt;Igualmente, en el segundo semestre de 2017 se inicia con mayor profundidad en el
+grupo el trabajo con lenguaje python para su uso en astronomía. De esta
+actividad, uno de los trabajos desarrollados se presentó a PyCon y fue aprobado
+para conferencia.&lt;/p&gt;
+&lt;div class="section" id="simulador-de-sistemas-planetarios"&gt;
+&lt;h2&gt;Simulador de sistemas planetarios&lt;/h2&gt;
+&lt;p&gt;Santiago Mesa, es un joven de 16 años que se encuentra en grado 11 y lleva
+5 años con el grupo Scalibur (nuestro grupo de ciencia). Su proyecto para el
+proceso de aprendizaje es "Simulador de sistemas planetarios", en el cual se
+ilustra la generación de las órbitas elípticas y la relación de periodo con las
+distancias a la estrella seleccionada. En particular, el desarrollo se basa en
+aplicar la formalización de las leyes de Kepler para las órbitas de los planetas
+y la ecuación de masa para las estrellas a partir de la información de
+temperatura y luminosidad.&lt;/p&gt;
+&lt;p&gt;Su conferencia se realizó el día viernes 9 de febrero de 2018 en el auditorio
+principal de la Universidad EAFIT. Felicitamos a Santiago por su excelente
+participación y ser el conferencista más joven del evento.&lt;/p&gt;
+&lt;p&gt;Les compartimos a continuación nuestro registro de la conferencia.&lt;/p&gt;
+&lt;div class="youtube-video align-center"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qJr6UyiqA7A?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;p&gt;También puedes tener acceso al
+&lt;a class="reference external" href="https://github.com/samez21/leyes-kepler"&gt;repositorio github&lt;/a&gt;
+en el cual se encuentra alojado el código y que seguirá actualizándose conforme
+avanza el proceso de aprendizaje de Santiago.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="jupyter-notebook-en-el-aula-de-clase"&gt;
+&lt;h2&gt;Jupyter Notebook en el aula de clase&lt;/h2&gt;
+&lt;p&gt;Por parte de nuestra organización, también participó en PyCon Colombia 2018,
+Edward Villegas Pulgarin, vicepresidente de la organización, con su conferencia
+Jupyter Notebook en el aula de clase. En esta conferencia se trato el
+acercamiento de python como herramienta en la educación y en particular del
+proyecto Jupyter Notebook.&lt;/p&gt;
+&lt;p&gt;Puedes acceder al
+&lt;a class="reference external" href="https://github.com/cosmoscalibur/aula-notebook"&gt;repositorio en github&lt;/a&gt; para
+el código de apoyo y ejecutarlo en tu equipo o en línea a través de MyBinder.
+Igualmente, puedes ver la presentación en
+&lt;a class="reference external" href="https://es.slideshare.net/cosmoscalibur/usando-notebook-en-el-aula)"&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>http://scaliburco.github.io/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item></channel></rss>
