@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/authors/organizacion-scalibur.xml</loc>
@@ -47,11 +47,11 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/avisos.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion.xml</loc>
@@ -243,7 +243,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/reuniones.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/ruta-n.xml</loc>
@@ -279,10 +279,10 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/rss.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/sitemap.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>

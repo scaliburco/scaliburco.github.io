@@ -3,7 +3,18 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 17 Dec 2018 02:12:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunion de grupo 20181124</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</link><dc:creator>Organización Scalibur</dc:creator><description>&lt;div&gt;&lt;p&gt;En nuestra última reunión, algunos de los beneficiarios participaron
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 17 Dec 2018 03:18:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Regreso de reuniones 20191</title><link>http://scaliburco.github.io/blog/regreso-de-reuniones-20191/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Ya estamos listos para el 2019, y esperamos que sea un año para seguir las
+dinámicas que dieron fruto durante 2018 y explorar nuevas herramientas en
+nuestro proceso de aprendizaje continuo.&lt;/p&gt;
+&lt;p&gt;Hemos aprobado el inicio de reuniones de 2019 para el 2 de febrero y la
+finalización de las mismas en el primer semestre el 25 de mayo. En general,
+será el inicio el primer sábado del segundo mes del semestre y para finalizar
+el último sábado del penúltimo mes del semestre.&lt;/p&gt;
+&lt;p&gt;Respecto a los cambios que impactan también los horarios, tenemos que nuestras
+reuniones tendrán una duración de 2 horas, iniciando a las 11 a. m. y
+terminando a la 1 p. m. Esperamos por parte de nuestros beneficiarios ser muy
+cumplidos para sacar el mayor provecho a este espacio.&lt;/p&gt;
+&lt;p&gt;Te invitamos a estar pendiente de próximos anuncios sobre el 2019.&lt;/p&gt;&lt;/div&gt;</description><category>reuniones</category><guid>http://scaliburco.github.io/blog/regreso-de-reuniones-20191/</guid><pubDate>Mon, 17 Dec 2018 03:00:59 GMT</pubDate></item><item><title>Reunion de grupo 20181124</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</link><dc:creator>Organización Scalibur</dc:creator><description>&lt;div&gt;&lt;p&gt;En nuestra última reunión, algunos de los beneficiarios participaron
 realizando exposiciones de los temas que decidieron investigar durante el
 segundo semestre del año.&lt;/p&gt;
 &lt;p&gt;Fue una sesión donde la participación activa determinó un gran aporte para
@@ -138,14 +149,4 @@ potencial uso en la ciencia.&lt;/li&gt;
 &lt;p&gt;Como los años recientes, la ferie del libro y la cultura ha ocupado distintos espacios de la zona norte de Medellín, que corresponden al Planetario de Medellín, Parque Explora, Jardín Botánico y Carabobo Norte.&lt;/p&gt;
 &lt;p&gt;Debido a esto, nos vemos obligados a cancelar la reunión del 16 de septiembre en vista de la posible ocupación de los espacios para el desarrollo de la Feria del libro que será entre el 10 y 17 de septiembre.&lt;/p&gt;
 &lt;p&gt;Invitamos a nuestros integrantes a que participen de este espacio cultural. &lt;a class="reference external" href="http://www.fiestadellibroylacultura.com/"&gt;Más información aquí&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>cancelación</category><category>novedades</category><category>reunión</category><category>septiembre</category><guid>http://scaliburco.github.io/blog/novedades-de-septiembre-de-2017/</guid><pubDate>Tue, 05 Sep 2017 21:50:38 GMT</pubDate></item><item><title>Reunión de grupo 20170902</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20170902/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas Pulgarin.&lt;/p&gt;
-&lt;div class="section" id="leyes-de-kepler"&gt;
-&lt;h2&gt;Leyes de Kepler&lt;/h2&gt;
-&lt;p&gt;Se discute como el factor de la distancia de los cuerpos influye en la forma de  determinar su distancia. De manera general se observa que las distancias más cortas de cuerpos celestes representan cuerpos en los cuales sus movimientos son apreciables y por ende una metodología como la hasta ahora discutida usando trigonometría (paralaje) no es funcional.&lt;/p&gt;
-&lt;p&gt;En este caso, se debe tener información del movimiento para poder determinar la distancia. Un ejemplo de este caso, es justo el uso de las leyes de Kepler para determinar la distancia de los cuerpos al sol, cuando esté último es el cuerpo central. Se comenta históricamente la aproximación empírica de Titius-Bode y la importancia de la acumulación de los datos de Tycho Brahe.&lt;/p&gt;
-&lt;p&gt;Se realiza un ejercicio rápido de cálculo de distancia conociendo el periodo de Saturno. Se discutirá en detalle cada una de las leyes de Kepler en las siguientes sesiones.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="programacion"&gt;
-&lt;h2&gt;Programación&lt;/h2&gt;
-&lt;p&gt;En este punto se comenta brevemente de manera histórica como el desarrollo de hardware inicial en Estados Unidos llevo a implicaciones hoy aplicables, como la codificación de caracteres y restricción de uso de ciertos caracteres especiales. Se menciona brevemente el código ASCII y UTF-8.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20170902/</guid><pubDate>Sun, 03 Sep 2017 04:30:32 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>cancelación</category><category>novedades</category><category>reunión</category><category>septiembre</category><guid>http://scaliburco.github.io/blog/novedades-de-septiembre-de-2017/</guid><pubDate>Tue, 05 Sep 2017 21:50:38 GMT</pubDate></item></channel></rss>

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://scaliburco.github.io/</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T02:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/2016/</loc>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/archive.html</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin/index-2.html</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/organizacion-scalibur/</loc>
@@ -100,6 +100,10 @@
  <url>
   <loc>http://scaliburco.github.io/blog/regreso-de-reuniones-20172/</loc>
   <lastmod>2018-12-17T02:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/blog/regreso-de-reuniones-20191/</loc>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/blog/renovando-nuestra-presencia-web/</loc>
@@ -219,7 +223,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/index-2.html</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/</loc>
@@ -463,7 +467,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/index-2.html</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-17T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/listings/</loc>
