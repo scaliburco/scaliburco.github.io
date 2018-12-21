@@ -1,6 +1,7 @@
 .. title: Reunion de grupo 20181124
 .. slug: reunion-de-grupo-20181124
-.. date: 2018-12-16 17:04:57-05:00
+.. date: 2018-11-24 17:04:57-05:00
+.. updated: 2018-12-16 17:04:57-05:00
 .. tags: divulgación, ciencia, investigación, proyectos
 .. category: grupo scalibur/reunión
 .. link: 

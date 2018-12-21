@@ -8,6 +8,7 @@
 .. description: Información del primer mes de sesiones de Scalibur de 2018.
 .. type: text
 .. author: Edward Villegas Pulgarin
+.. has_math: true
 
 Durante el mes de febrero se dan nuestras primeras sesiones del año. Si bien las
 reuniones iniciaron oficialmente el 27 de enero, esta fue de información general
