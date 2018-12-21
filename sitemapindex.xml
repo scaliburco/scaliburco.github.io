@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://scaliburco.github.io/authors/edward-villeas-pulgarin.xml</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin.xml</loc>
   <lastmod>2018-12-17T03:18:00Z</lastmod>
  </sitemap>
@@ -47,7 +51,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur.xml</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/avisos.xml</loc>
@@ -55,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/seguimiento.xml</loc>
@@ -71,7 +75,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/ciencia.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/ciencias-planetarias.xml</loc>
@@ -115,7 +119,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/divulgacion.xml</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/eclipse.xml</loc>
@@ -279,10 +283,10 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/rss.xml</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/sitemap.xml</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>

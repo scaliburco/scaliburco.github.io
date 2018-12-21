@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://scaliburco.github.io/</loc>
-  <lastmod>2018-12-17T02:15:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/2016/</loc>
@@ -31,11 +31,15 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/archive.html</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/authors/edward-villeas-pulgarin/</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin/</loc>
@@ -162,6 +166,18 @@
   <lastmod>2018-12-17T02:12:00Z</lastmod>
  </url>
  <url>
+  <loc>http://scaliburco.github.io/blog/reunion-de-grupo-20180407/</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/blog/reunion-de-grupo-20180602/</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/blog/reunion-de-grupo-20181110/</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</loc>
   <lastmod>2018-12-17T02:12:00Z</lastmod>
  </url>
@@ -223,7 +239,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/index-2.html</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/</loc>
@@ -231,7 +247,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/index-1.html</loc>
-  <lastmod>2018-12-17T02:12:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/seguimiento/</loc>
@@ -467,7 +483,11 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/index-2.html</loc>
-  <lastmod>2018-12-17T03:18:00Z</lastmod>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/index-3.html</loc>
+  <lastmod>2018-12-21T03:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/listings/</loc>
