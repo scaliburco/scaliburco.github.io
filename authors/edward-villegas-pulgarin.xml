@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones de Edward Villegas Pulgarin)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/authors/edward-villegas-pulgarin.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2018 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones de Edward Villegas Pulgarin)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/authors/edward-villegas-pulgarin.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2019 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 31 Dec 2018 14:41:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>100 horas de astronomía</title><link>http://scaliburco.github.io/blog/100-horas-de-astronomia/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Para nuestra Organización es importante ser parte activa de las actividades de
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 09 Feb 2019 19:47:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de grupo 20190209</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20190209/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Se da inicio a la sesión regular a las 11:10 a. m. en la sala de
+reuniones del Planetario de Medellín.&lt;/p&gt;
+&lt;p&gt;Inicialmente se da invitación a la actividad que realizara el
+Planetario sobre la participación de las mujeres en la ciencia,
+considerando que el lunes 11 de febrero se celebra este hito.&lt;/p&gt;
+&lt;p&gt;Edward Villegas Pulgarin realiza una intervención introductoria y
+reflexiva sobre la participación de la mujer en la ciencia.&lt;/p&gt;
+&lt;p&gt;Carolina Escobar realiza una presentación sobre un conjunto de
+mujeres que destacaron en sus aportes en distintas áreas de la
+ciencia e invita a la participación activa de las mujeres del grupo.
+Se resaltan casos específicos de mujeres que contribuyeron en
+matemáticas, física, astronomía y computación.&lt;/p&gt;
+&lt;p&gt;Daniel Muñoz presenta una explicación sobre el trabajo realizado por
+Jorge Zuluaga para determinar la trayectoria del impacto en la Luna,
+usando el mismo método usado para determinar la trayectoria del
+bólido de Chelyabinsk.&lt;/p&gt;
+&lt;p&gt;Edward Villegas inicia la temática sobre el planeta 9, donde primero
+se recuerda las reglas que se deben cumplir para considerar un cuerpo
+como planeta. Se continuará la próxima sesión.&lt;/p&gt;&lt;/div&gt;</description><category>astronomía</category><category>ciencia</category><category>divulgación</category><category>mujeres</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20190209/</guid><pubDate>Sat, 09 Feb 2019 16:26:08 GMT</pubDate></item><item><title>100 horas de astronomía</title><link>http://scaliburco.github.io/blog/100-horas-de-astronomia/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Para nuestra Organización es importante ser parte activa de las actividades de
 divulgación científica que se desarrollan en la ciudad y contribuir a la
 formación en ciencia de los niños y jóvenes.&lt;/p&gt;
 &lt;p&gt;Es por esto, que para el año 2019, nos uniremos a las distintas
@@ -197,5 +215,4 @@ Igualmente, puedes ver la presentación en
 &lt;p&gt;Daniel Muñoz comienza una inducción al lanzamiento de cohetes de agua, que es la próxima temática práctica que inicia el 14 de octubre de 2017 (como ha sido costumbre, en el jardín botánico).&lt;/p&gt;
 &lt;p&gt;Esta primera aproximación se realiza enunciando el tiro parabólico y su composición del movimiento a partir de los dos movimientos independientes: horizontal y vertical. Edward Villegas Pulgarin promueve la actividad de identificar a partir de lo expuesto las diferencias respecto a un lanzamiento de un cohete (de agua en este caso particular).&lt;/p&gt;
 &lt;p&gt;Daniel Muñoz y Paula Nevado estarán notificando los elementos requeridos para iniciar la actividad práctica, pero recomendamos desde ya tener listo cuerda, cinta métrica, aplicación &lt;em&gt;physics toolbox suite&lt;/em&gt; y botellas plásticas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>cohetes</category><category>divulgación</category><category>física</category><category>kepler</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20171007/</guid><pubDate>Sun, 08 Oct 2017 04:32:49 GMT</pubDate></item><item><title>Reunión de grupo 20170930</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20170930/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta sesión se desarrollo bajo la propuesta realizada la sesión anterior por Daniel Muñoz, de trabajar en las aclaraciones y respuesta a preguntas que puedan existir hasta el momento en el proceso de aprendizaje de los beneficiarios. Esto sirve de retroalimentación ya que se revisa la claridad de los temas trabajados y permite una mayor familiarización a los conceptos. Igualmente Edward Villegas Pulgarin motiva el desarrollo de la sesión con algunas preguntas que implican analizar conceptos que se adquirieron en sesiones anteriores.&lt;/p&gt;
-&lt;p&gt;Se profundizo en conceptos como la temperatura, la energía cinética, la presión, la carga eléctrica, radiación electromagnética, los fotones, y la relación entre aceleración y gravedad.&lt;/p&gt;&lt;/div&gt;</description><category>divulgación</category><category>preguntas</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20170930/</guid><pubDate>Sun, 01 Oct 2017 04:32:05 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>cohetes</category><category>divulgación</category><category>física</category><category>kepler</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20171007/</guid><pubDate>Sun, 08 Oct 2017 04:32:49 GMT</pubDate></item></channel></rss>
