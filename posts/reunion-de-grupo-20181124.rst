@@ -7,6 +7,7 @@
 .. link: 
 .. description: Última sesión del año 2018 del grupo Scalibur. Presentaciones de integrantes.
 .. type: text
+.. author: Edward Villeas Pulgarin
 
 En nuestra última reunión, algunos de los beneficiarios participaron
 realizando exposiciones de los temas que decidieron investigar durante el
