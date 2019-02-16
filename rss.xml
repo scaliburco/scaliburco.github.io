@@ -3,7 +3,29 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 09 Feb 2019 19:47:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de grupo 20190209</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20190209/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Se da inicio a la sesión regular a las 11:10 a. m. en la sala de
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 16 Feb 2019 20:00:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de grupo 20190216</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20190216/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La reunión del día inicia a las 11 a. m. recordando que las sesiones durante
+el presente año la duración es de 2 horas y por ende inician de manera cumplida
+para el mayor aprovechamiento del tiempo.&lt;/p&gt;
+&lt;p&gt;A continuación, Edward Villegas continúa con el contexto necesario para comprender
+el origen de las hipótesis del planeta 9. Se recuerdan los 3 enunciados con los
+cuales se define actualmente un planeta por la Unión Internacional de Astronomía,
+asociados a girar entorno al sol (o estrella en general), tener masa suficiente para
+ser considerado como un cuerpo rígido en equilibrio y haber limpiado la órbita.&lt;/p&gt;
+&lt;p&gt;Los anteriores enunciados surgen en 2006, por lo cual antes de esta época no era claro
+como considerar un cuerpo y se comienza a revisar como fueron considerados los planetas
+y sus descubrimientos a través de la historia.&lt;/p&gt;
+&lt;p&gt;Finalmente, al discutir el descubrimiento de Neptuno se aporta como se llega a su ubicación,
+y de otras opciones que son aplicables para el descubrimiento de nuevos cuerpos, como
+son los usados para la hipótesis del planeta 9, siendo importante la afectación de las órbitas
+de cuerpos cercanos a las regiones donde podría estar el nuevo cuerpo.&lt;/p&gt;
+&lt;p&gt;La segunda parte de la reunión, es realizada por Jerónimo Usuga sobre la cultura Maya, creencias,
+calendario y aportes en las matemáticas y astronomía. Se destaca la diferencia de dos tipos de
+calendarios asociados al sol y la luna, un sistema numérico de base 20 y el concepto de vacío,
+los mitos sobre los sacrificios en el juego de pelota (no se sacrificaban a los equipos, ¡eran sus mejores
+guerreros!), la construcción de templos sobre templos menores, y el uso como espacios ceremoniales para
+sacrificio de los cenotes, estructuras de cavernas bajo suelo con ríos subterráneos. Se comparte sobre
+el caracter sagrado de la pantera y sus tradiciones acerca de la muerte (como parte vivencial
+nos comparte un café preparado en la manera tradicional del día de muertos).&lt;/p&gt;&lt;/div&gt;</description><category>astronomía</category><category>ciencia</category><category>divulgación</category><category>historia</category><category>mayas</category><category>planetas</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20190216/</guid><pubDate>Sat, 16 Feb 2019 19:33:36 GMT</pubDate></item><item><title>Reunión de grupo 20190209</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20190209/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Se da inicio a la sesión regular a las 11:10 a. m. en la sala de
 reuniones del Planetario de Medellín.&lt;/p&gt;
 &lt;p&gt;Inicialmente se da invitación a la actividad que realizara el
 Planetario sobre la participación de las mujeres en la ciencia,
@@ -235,11 +257,4 @@ proyecto Jupyter Notebook.&lt;/p&gt;
 el código de apoyo y ejecutarlo en tu equipo o en línea a través de MyBinder.
 Igualmente, puedes ver la presentación en
 &lt;a class="reference external" href="https://es.slideshare.net/cosmoscalibur/usando-notebook-en-el-aula)"&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>http://scaliburco.github.io/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Novedades de noviembre de 2017</title><link>http://scaliburco.github.io/blog/novedades-de-noviembre-de-2017/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Durante el mes de noviembre cambia la dinámica tradicional de nuestras sesiones. fue dedicado a 3 reuniones donde nuestros conferencistas fueron nuestros beneficiarios hablando sobre distintas temáticas de su interés pero que poseen aplicación para la ciencia y divulgación.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Carlos Cardona: No habló sobre una metodología de análisis de impactos de proyectos, la cual puede ser extendida a proyectos en el área de astronomía. En particular, queda pendiente el ejercicio de realizar un caso ficticio del análisis de un proyecto como un dron exploratorio o de un observatorio.&lt;/li&gt;
-&lt;li&gt;Manuela Gómez: Nos habló sobre la memoria y como la psicología nos ayuda a entender distintos fenómenos asociados a ella. Además, una serie de recomendaciones asociadas a su manejo para la realización de exposiciones. Útil en las actividades de divulgación de la ciencia.&lt;/li&gt;
-&lt;li&gt;Paulina Vargas: Nos habló sobre la historia asociada a como se determino la edad de la Tierra. Se da un contexto de las hipótesis de carácter mitológico y religioso, para luego introducir el debate de la aplicación del conocimiento física asociado a los procesos radioactivos y la geología. Esta charla quedo interrumpida y se continuara más adelante.&lt;/li&gt;
-&lt;li&gt;Aparte de ellos, hay otras 3 sesiones (Matías Morales, Mateo Pineda y Tatiana Bernal) pendientes que por motivos de la &lt;a class="reference external" href="http://scaliburco.github.io/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/"&gt;Charla: ¿Qué son esos puntos blancos en el cielo y por qué son importantes?&lt;/a&gt; se deben posponer para el 2018.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El 2 de diciembre será nuestra última reunión pero esta no posee carácter académico. Corresponde a nuestra reunión de despedida, en el cual buscamos un espacio de dispersión y compartir.&lt;/p&gt;&lt;/div&gt;</description><category>divulgación</category><guid>http://scaliburco.github.io/blog/novedades-de-noviembre-de-2017/</guid><pubDate>Thu, 23 Nov 2017 02:59:28 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>http://scaliburco.github.io/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item></channel></rss>
