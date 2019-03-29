@@ -139,6 +139,7 @@ NAVIGATION_LINKS = {
         ((
             ("/corp/about/", "Quienes somos"),
             ("/corp/contact/", "Contáctanos"),
+            ("/corp/legal/", "Documentos legales")
             ), 'Organización'),
         ("/", "Blog"),
         ("/archive.html", "Archivo"),
