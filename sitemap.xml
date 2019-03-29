@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/archive.html</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/</loc>
@@ -59,7 +59,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin/index-3.html</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/authors/organizacion-scalibur/</loc>
@@ -202,6 +202,10 @@
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </url>
  <url>
+  <loc>http://scaliburco.github.io/blog/reunion-de-grupo-20190323/</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://scaliburco.github.io/blog/scalibur-en-pycon-2018/</loc>
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </url>
@@ -211,7 +215,11 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/categories/4d/</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/aeroespacial/</loc>
@@ -259,7 +267,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/index-2.html</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/</loc>
@@ -267,7 +275,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/index-1.html</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/seguimiento/</loc>
@@ -322,6 +330,10 @@
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </url>
  <url>
+  <loc>http://scaliburco.github.io/categories/dimensiones/</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://scaliburco.github.io/categories/diplomado/</loc>
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </url>
@@ -352,6 +364,10 @@
  <url>
   <loc>http://scaliburco.github.io/categories/fisica/</loc>
   <lastmod>2019-03-29T01:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://scaliburco.github.io/categories/geometria/</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/categories/historia/</loc>
@@ -543,7 +559,7 @@
  </url>
  <url>
   <loc>http://scaliburco.github.io/index-3.html</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://scaliburco.github.io/listings/</loc>

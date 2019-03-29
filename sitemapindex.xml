@@ -11,11 +11,15 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/authors/edward-villegas-pulgarin.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/authors/organizacion-scalibur.xml</loc>
   <lastmod>2018-12-21T03:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://scaliburco.github.io/categories/4d.xml</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/aeroespacial.xml</loc>
@@ -51,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/avisos.xml</loc>
@@ -59,7 +63,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/reunion.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/cat_grupo-scalibur/seguimiento.xml</loc>
@@ -75,7 +79,7 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/ciencia.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/ciencias-planetarias.xml</loc>
@@ -114,12 +118,16 @@
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://scaliburco.github.io/categories/dimensiones.xml</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://scaliburco.github.io/categories/diplomado.xml</loc>
   <lastmod>2019-03-29T01:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/divulgacion.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/eclipse.xml</loc>
@@ -143,7 +151,11 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/fisica.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://scaliburco.github.io/categories/geometria.xml</loc>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/categories/historia.xml</loc>
@@ -311,10 +323,10 @@
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/rss.xml</loc>
-  <lastmod>2019-03-29T01:23:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://scaliburco.github.io/sitemap.xml</loc>
-  <lastmod>2019-03-29T01:24:00Z</lastmod>
+  <lastmod>2019-03-29T22:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>
