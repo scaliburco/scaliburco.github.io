@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Empezó el mes de agosto, y con ello volvemos a las reuniones tradicionales del grupo Scalibur.
 

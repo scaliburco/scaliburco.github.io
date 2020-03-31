@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Durante el mes de noviembre cambia la dinámica tradicional de nuestras sesiones. fue dedicado a 3 reuniones donde nuestros conferencistas fueron nuestros beneficiarios hablando sobre distintas temáticas de su interés pero que poseen aplicación para la ciencia y divulgación.
 

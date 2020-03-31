@@ -8,7 +8,7 @@
 .. link:
 .. description: Información de contacto con la Organización Scalibur.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 Para distintos fines puede usted establecer contacto con nuestra organización a través de cualquiera de nuestros medios oficiales de comunicación.  

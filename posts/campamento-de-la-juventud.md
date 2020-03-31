@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 De nuestros amigos de la [Corporación Fénix](https://www.facebook.com/corpfenix/), hacemos extensiva la invitación al campamento de la juventud, organizado por la administración de Copacabana. Este evento es un espacio de cultura y ciencia.  

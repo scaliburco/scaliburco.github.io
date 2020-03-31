@@ -7,7 +7,7 @@
 .. link:
 .. description: Resumen de reunión del 29 de abril de 2017
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 La sesión inicia a las 11:11.  

@@ -7,7 +7,7 @@
 .. link:
 .. description: Información del primer mes de sesiones de Scalibur de 2018.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 .. has_math: true
 
 Durante el mes de febrero se dan nuestras primeras sesiones del año. Si bien las
@@ -48,7 +48,7 @@ Durante el mes de febrero nos encontramos con las siguientes actividades:
   :doc:`scalibur-en-pycon-2018`.
 + Mateo Pineda realiza una exposición sobre las generaciones de los computadores
   el 10 de febrero.
-+ Edward Villegas Pulgarin retoma el estudió en el grupo de las leyes de Kepler
++ Edward Villegas-Pulgarin retoma el estudió en el grupo de las leyes de Kepler
   el 17 de febrero que se llevaba desde :doc:`2017 <reunion-de-grupo-20171021>`.
   Inicialmente se realiza un repaso de las primeras dos leyes de Kepler y se
   finaliza enunciando la tercera ley de Kepler (:math:`T^2 \propto R^3`) con

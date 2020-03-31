@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La participación de nuestros integrantes en distintas actividades académicas de
 nivel nacional e internacional ha sido un elemento importante para la formación
@@ -52,7 +52,7 @@ Jupyter Notebook en el aula de clase
 ====================================
 
 Por parte de nuestra organización, también participó en PyCon Colombia 2018,
-Edward Villegas Pulgarin, vicepresidente de la organización, con su conferencia
+Edward Villegas-Pulgarin, vicepresidente de la organización, con su conferencia
 Jupyter Notebook en el aula de clase. En esta conferencia se trato el
 acercamiento de python como herramienta en la educación y en particular del
 proyecto Jupyter Notebook.

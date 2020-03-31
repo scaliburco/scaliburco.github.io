@@ -7,7 +7,7 @@
 .. link:
 .. description: Publicación sobre la renovación de imagen y mejora de la presencia web de la corporación.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 Este es uno más de los pasos en nuestra renovación. Con nuestro nuevo equipo de trabajo esperamos que este sitio este actualizado continuamente con noticias de ciencia y tecnología, explicadas a nuestro estilo. Pero igualmente, es la presencia no solo como un ente de divulgación sino como corporación.  

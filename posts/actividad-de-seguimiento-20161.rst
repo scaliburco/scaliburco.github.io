@@ -6,7 +6,7 @@
 .. link:
 .. description: Actividad de seguimiento del proceso de aprendizaje de los beneficiarios.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.
 

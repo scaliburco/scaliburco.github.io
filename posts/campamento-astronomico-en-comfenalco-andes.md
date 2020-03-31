@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 Vive una experiencia llena de estrellas este mes de julio, antes del fin de tus vacaciones de la universidad en el municipio de Andes.  

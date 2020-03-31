@@ -6,7 +6,7 @@
 .. link: 
 .. description: Temas tratados sobre definición de planeta y como descubrir un nuevo planeta, y contribuciones de la cultura maya.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La reunión del día inicia a las 11 a. m. recordando que las sesiones durante
 el presente año la duración es de 2 horas y por ende inician de manera cumplida

@@ -7,7 +7,7 @@
 .. description: Participación de la Organización Scalibur en el programa 100
                 horas de astronomía de la Unión Internacional de Astronomía.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Para nuestra Organización es importante ser parte activa de las actividades de
 divulgación científica que se desarrollan en la ciudad y contribuir a la

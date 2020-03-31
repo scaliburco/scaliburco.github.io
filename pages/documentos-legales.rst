@@ -6,7 +6,7 @@
 .. link: 
 .. description: Disposición pública de los documentos legales de la Organización Scalibur.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La Organización Scalibur Para La Investigación y La Ciencia - O.S.I., de
 conformidad con lo establecido en el artículo 364-5 del Estatuto Tributario que

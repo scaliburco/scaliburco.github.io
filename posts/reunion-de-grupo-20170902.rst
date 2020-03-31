@@ -6,9 +6,9 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
-En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas Pulgarin.
+En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas-Pulgarin.
 
 Leyes de Kepler
 ===============

@@ -7,7 +7,7 @@
 .. description: Actividad de seguimiento del proceso de aprendizaje de los beneficiarios.
 .. type: text
 .. has_math: true
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.
 
@@ -118,7 +118,7 @@ espacio-tiempo?
 Física de partículas
 ====================
 
-Este bloque de preguntas se basa en las sesiones dirigidas por Edward Villegas Pulgarin sobre física de partículas. El material de apoyo recomendado para el repaso del tema es el sitio en inglés `The particle adventure <http://www.particleadventure.org/>`_.
+Este bloque de preguntas se basa en las sesiones dirigidas por Edward Villegas-Pulgarin sobre física de partículas. El material de apoyo recomendado para el repaso del tema es el sitio en inglés `The particle adventure <http://www.particleadventure.org/>`_.
 
 **Física de partículas 1**. ¿Cuál es la *única* partícula elemental
 posible de espín 2?

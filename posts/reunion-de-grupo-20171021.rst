@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 .. has_math: true
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Durante la sesión del 21 de octubre se continúa con la temática de la segunda ley de Kepler con base al análisis de la conservación del momento angular.
 

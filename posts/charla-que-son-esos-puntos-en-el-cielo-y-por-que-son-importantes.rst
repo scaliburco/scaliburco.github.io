@@ -6,7 +6,7 @@
 .. link:
 .. description: Invitación a la charla del profesor Esteban Silva-Villa en el espacio de la Sociedad Julio Garavito sobre las estrellas (astrofísica estelar).
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La Organización Scalibur para la Investigación y la ciencia invita a su Junta Directiva, beneficiarios y público en general a participar de la charla de divulgación *¿Qué son esos puntos blancos en el cielo y por qué son importantes?*, en el espacio habitual de las reuniones de la Sociedad Julio Garavito y dictada por el astrónomo `Esteban Silva-Villa <http://astronomia-udea.co/principal/es/EstebanSilva>`_ (profesor de la Universidad de Antioquia).
 

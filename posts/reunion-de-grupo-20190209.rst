@@ -6,7 +6,7 @@
 .. link: 
 .. description: Temas tratados en la primera sesión temática del año 2019.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Se da inicio a la sesión regular a las 11:10 a. m. en la sala de
 reuniones del Planetario de Medellín.
@@ -15,7 +15,7 @@ Inicialmente se da invitación a la actividad que realizara el
 Planetario sobre la participación de las mujeres en la ciencia,
 considerando que el lunes 11 de febrero se celebra este hito.
 
-Edward Villegas Pulgarin realiza una intervención introductoria y
+Edward Villegas-Pulgarin realiza una intervención introductoria y
 reflexiva sobre la participación de la mujer en la ciencia.
 
 Carolina Escobar realiza una presentación sobre un conjunto de

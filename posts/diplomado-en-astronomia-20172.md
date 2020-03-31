@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 Como ha sido habitual cada semestre, nos acompañará en la oferta académica para público general el [diplomado en astronomía de la Universidad de Antioquia](https://www.facebook.com/Diplomado-en-Astronomía-149996545152828/). La inscripción al diplomado tiene un costo de 550 000 pesos y hay plazo hasta el 11 de agosto de 2017. Esta es una oportunidad para actualizar los conocimientos en astronomía o acercarse a ellos (eso si, se requiere un conocimiento mínimo de cálculo universitario). En esta ocasión, la temática del diplomado será en ciencias planetarias y se desarrollará del 12 de agosto al 2 de diciembre del presente año.  

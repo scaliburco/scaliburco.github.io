@@ -8,7 +8,7 @@
 .. description: Resumen de reunión del 4 de febrero de 2017
 .. type: text
 .. has_math: true
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 La sesión inicia con las indicaciones generales sobre los cambios presentes para el año 2017 y los elementos presentes del año anterior. Referenciar las reglas en el correo enviado la semana anterior.

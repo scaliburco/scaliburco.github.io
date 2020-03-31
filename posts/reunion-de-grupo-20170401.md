@@ -8,7 +8,7 @@
 .. description: Resumen de reunión del 1 de abril de 2017
 .. type: text
 .. has_math: true
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 La reunión inicia en su espacio general con la temática de radioactividad por Daniel Muñoz. Se concibe inicialmente el concepto de radiación y de ondas electromagnéticas. Tras esto se habla del contexto histórico de la ley de Planck (radiación de cuerpo negro) y la discretización de la energía para comprender la radiación electromagnética.  

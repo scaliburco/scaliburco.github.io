@@ -6,7 +6,7 @@
 .. link:
 .. description: Novedades en la ciudad de Medellín que afectan el desarrollo de las sesiones del Grupo Scalibur durante el mes de Septiembre de 2017.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Este mes de septiembre presentamos dos eventos en la ciudad que nos afectan fuertemente, al punto que se hace necesario cancelar las sesiones que coinciden en dichas fechas (9 y 16 de septiembre).
 

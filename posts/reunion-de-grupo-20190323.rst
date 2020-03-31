@@ -6,7 +6,7 @@
 .. link: 
 .. description: Charla ¿De qué «dimensiones» hablan los físicos? de Nicolas Guarin.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Durante la sesión contamos con un invitado con quien trabajamos un tema que ha
 causado mucha inquietud a nuestros beneficiarios, y es el concepto de

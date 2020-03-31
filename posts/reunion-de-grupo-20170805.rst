@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 La sesión inicia con indicaciones generales sobre actividades que nos esperan en este mes de agosto y de las actividades a las cuales se dará continuidad.
 
@@ -40,7 +40,7 @@ El 21 de agosto del presente año (día festivo) tendremos la oportunidad de pre
 Actividades de la sesión
 ========================
 
-Edward Villegas Pulgarin realiza una sesión introductoria a la programación en la cual se contextualiza primero la importancia de la programación en la astronomía y otras disciplinas. Luego se discute sobre la diferencia entre un lenguaje humano y un lenguaje de programación, y de como se indican las instrucciones a una máquina. Finalmente, se repasan los operadores aritméticos básicos como parte de fundamentos requeridos para los primeros códigos que se harán más adelante. Paula Nevado se encargará de una sesión sobre lógica proposicional para dar continuidad al tema.
+Edward Villegas-Pulgarin realiza una sesión introductoria a la programación en la cual se contextualiza primero la importancia de la programación en la astronomía y otras disciplinas. Luego se discute sobre la diferencia entre un lenguaje humano y un lenguaje de programación, y de como se indican las instrucciones a una máquina. Finalmente, se repasan los operadores aritméticos básicos como parte de fundamentos requeridos para los primeros códigos que se harán más adelante. Paula Nevado se encargará de una sesión sobre lógica proposicional para dar continuidad al tema.
 
 Juan Carlos Molina trabaja para finalizar la sesión, con la conferencia TED\ :sup:`x`: *Programar para aprender sin límites*, por Antonio Garcia (2015, a sus 8 años de edad). A continuación, les invitamos a ver la conferencia.
 

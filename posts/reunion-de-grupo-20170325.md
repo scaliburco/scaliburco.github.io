@@ -7,7 +7,7 @@
 .. link:
 .. description: Resumen de reunión del 25 de marzo de 2017
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 La reunión inicia dando indicaciones generales:  

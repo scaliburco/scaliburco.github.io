@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Tras nuestra actividad en el jardín botánico realizada en la sesión anterior sobre la medición de la distancia a las estrellas cercanas por medio de la técnica de paralaje, esta sesión se desarrolla para complementar el fundamento asociado.
 

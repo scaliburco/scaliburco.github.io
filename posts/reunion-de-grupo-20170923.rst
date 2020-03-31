@@ -6,12 +6,12 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Primera ley de Kepler
 =====================
 
-Edward Villegas Pulgarin nos explica la primera ley de Kepler. Como se vio, no es tan simple como su enunciado si se desea comprender la razón misma de esta. Las leyes de Kepler poseen un carácter muy empírico y corresponden a un caso muy específico de la dinámica de los cuerpos del sistema solar teniendo como restricción que permanecen en órbita y que el cuerpo principal es supremamente masivo para despreciar su movimiento. Se introduce el concepto de las curvas cónicas, su presencia como posibles trayectorias de cuerpos celestes y el concepto de centro de masa.
+Edward Villegas-Pulgarin nos explica la primera ley de Kepler. Como se vio, no es tan simple como su enunciado si se desea comprender la razón misma de esta. Las leyes de Kepler poseen un carácter muy empírico y corresponden a un caso muy específico de la dinámica de los cuerpos del sistema solar teniendo como restricción que permanecen en órbita y que el cuerpo principal es supremamente masivo para despreciar su movimiento. Se introduce el concepto de las curvas cónicas, su presencia como posibles trayectorias de cuerpos celestes y el concepto de centro de masa.
 
 Campaña de búsqueda de asteroides
 =================================

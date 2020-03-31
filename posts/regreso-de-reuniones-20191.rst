@@ -6,7 +6,7 @@
 .. link: 
 .. description: Notificación de inicio de sesiones del primer semestre de 2019.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Ya estamos listos para el 2019, y esperamos que sea un año para seguir las
 dinámicas que dieron fruto durante 2018 y explorar nuevas herramientas en

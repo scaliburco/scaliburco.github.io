@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 La Organización Scalibur para la Investigación y la Ciencia (O.S.I.) es una organización sin ánimo de lucro, no gubernamental, de carácter privado y autónomo, que desde noviembre 25 de 1996 se ha dedicado a promover programas de capacitación científica, enfocados en desarrollar el espíritu científico, investigador, visionario y emprendedor de la niñez y juventud, y la divulgación de la ciencia para todo tipo de público.  

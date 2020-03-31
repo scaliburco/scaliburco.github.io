@@ -8,12 +8,12 @@
 .. description: Descripción del cálculo de la proporción áurea
 .. type: text
 .. has_math: true
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 Una de las actividades desarrolladas en las sesiones de nuestro grupo de divulgación, involucro hablar de este número en particular por parte de dos de nuestros beneficiarios Santiago Mesa e Isabella Pérez.  
 
-Aquí, Edward Villegas Pulgarin nos detalla como se obtienen los valores que conocemos de \\(\phi\\).  
+Aquí, Edward Villegas-Pulgarin nos detalla como se obtienen los valores que conocemos de \\(\phi\\).  
 
 # Cálculando \\(\phi\\)
 

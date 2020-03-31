@@ -6,7 +6,7 @@
 .. link:
 .. description: Actividad especial del grupo Scalibur por el eclipse parcial de sol del 21 de agosto de 2017 en el parque de los deseos, Medellín.
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 Este lunes festivo tenemos un gran evento en el firmamento que no nos podemos perder, y el grupo Scalibur te invita a participar de las actividades especiales que las comunidades de astronomía de Medellín tienen preparadas para su acompañamiento en el Parque de los Deseos. Recordamos que por este motivo, la actividad regular del día sábado fue cancelada, ya que tendríamos esta actividad especial.
 

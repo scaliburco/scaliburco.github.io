@@ -7,7 +7,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 -->
 
 El sector aeroespacial en Colombia poco a poco encuentra nuevas oportunidades no solo en formación sino también en los negocios. Medellín ha sido justo una ciudad donde se ha visto una comunidad fortalecida alrededor de este tema, con comunidades profesionales y aficionadas interesadas en el desarrollo aeroespacial ([Incaes Aerospace](https://www.facebook.com/incaesaerospace/); [Club aeroespacial de Medellín - Saturno V](http://www.planetariomedellin.org/clubes-de-ciencia/club-aeroespacial-de-medellin-saturno-v-/)) así como cuna de pregrados afines ([pregrado en ingeniería aeronáutica](https://www.upb.edu.co/es/pregrados/ingenieria-aeronautica-medellin); [pregrado en ingeniería aeroespacial](http://www.udea.edu.co/wps/portal/udea/web/inicio/institucional/unidades-academicas/facultades/ingenieria/programas-academicos/programas-pregrado/ingenieria-aeroespacial)). Por ello, no es de extrañar encontrarnos en el calendario de eventos, opciones como la siguiente.  

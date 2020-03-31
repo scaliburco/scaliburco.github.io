@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: Edward Villegas Pulgarin
+.. author: Edward Villegas-Pulgarin
 
 En la reunión habitual desarrollada el 18 de noviembre, además de la :doc:`actividad iniciada por Paulina Vargas <novedades-de-noviembre-de-2017>`, Juan Carlos Molina dirigió dos actividades de video.
 
