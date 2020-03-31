@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre relatividad)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/categories/relatividad.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2019 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre relatividad)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/categories/relatividad.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2020 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 29 Mar 2019 01:23:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Actividad de seguimiento 20171</title><link>http://scaliburco.github.io/blog/actividad-de-seguimiento-20171/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.&lt;/p&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 31 Mar 2020 02:44:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Actividad de seguimiento 20171</title><link>http://scaliburco.github.io/blog/actividad-de-seguimiento-20171/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.&lt;/p&gt;
 &lt;p&gt;Esta actividad representa un recorrido por las distintas temáticas trabajadas en las reuniones habituales durante el primer semestre de 2017. Esta, la versión web, corresponde a la versión del solucionario pero durante la reunión presencial se entregó un formato físico para la solución individual y su posterior discusión grupal. Las opciones en negrilla son las respuestas correctas.&lt;/p&gt;
 &lt;div class="section" id="astronomia-general"&gt;
 &lt;h2&gt;Astronomía general&lt;/h2&gt;
@@ -11,36 +11,36 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copy
 &lt;p&gt;&lt;strong&gt;Video Módulo 1 Clase 1&lt;/strong&gt;. El instrumento que es de mucha utilidad para
 los &lt;em&gt;astrónomos&lt;/em&gt; es:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Los Astrolabios.&lt;/li&gt;
-&lt;li&gt;Los Satélites.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Las Cámaras&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Los Telescopios.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Los Astrolabios.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Los Satélites.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Las Cámaras&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Los Telescopios.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Video Módulo 1 Clase 2&lt;/strong&gt;. La observación astronómica desde la &lt;em&gt;Tierra&lt;/em&gt;
 está condicionada por:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;La refracción atmosférica.&lt;/li&gt;
-&lt;li&gt;La dispersión atmosférica.&lt;/li&gt;
-&lt;li&gt;La turbulencia, intensidad, y brillo.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Todas las anteriores&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La refracción atmosférica.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La dispersión atmosférica.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La turbulencia, intensidad, y brillo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Todas las anteriores&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Video Módulo 1 Clase 3&lt;/strong&gt;. La fuente de &lt;em&gt;energía&lt;/em&gt; del Sol y del resto
 de las estrellas son:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Las fisiones nucleares.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Las fusiones termonucleares de los elementos ligeros en otros elementos más pesados&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Las reacciones nucleares de masa coronaria.&lt;/li&gt;
-&lt;li&gt;La emisión de isótopos radioactivos como energía principal de las
-estrellas.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Las fisiones nucleares.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Las fusiones termonucleares de los elementos ligeros en otros elementos más pesados&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Las reacciones nucleares de masa coronaria.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La emisión de isótopos radioactivos como energía principal de las
+estrellas.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Video Módulo 1 Clase 4&lt;/strong&gt;. Las estrellas &lt;em&gt;evolucionan&lt;/em&gt; de la siguiente
 forma:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;strong&gt;Por una lucha entre la gravedad y la presión, donde la gravedad tiende a colapsar a la estrella, mientras que la presión en el interior tiende a expandirla&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Por choques estelares entre estrellas.&lt;/li&gt;
-&lt;li&gt;Por la presión que genera el choque entre protones y electrones en su núcleo.&lt;/li&gt;
-&lt;li&gt;Por el aumento de su temperatura y densidad en el interior de cada
-estrella.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Por una lucha entre la gravedad y la presión, donde la gravedad tiende a colapsar a la estrella, mientras que la presión en el interior tiende a expandirla&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Por choques estelares entre estrellas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Por la presión que genera el choque entre protones y electrones en su núcleo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Por el aumento de su temperatura y densidad en el interior de cada
+estrella.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="relatividad-de-einstein"&gt;
@@ -49,74 +49,74 @@ estrella.&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Relatividad 1&lt;/strong&gt;. ¿Que es un diagrama de &lt;em&gt;Minkowski&lt;/em&gt; para la
 relatividad especial?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Un plano de X vs Y para representar el movimiento de los planetas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Un plano CT vs X para representar la deformación espacio-temporal producida por la estado de movimiento de un cuerpo&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Un dibujo que representa las interacciones de las partículas subatómicas.&lt;/li&gt;
-&lt;li&gt;Una lista con los valores de las 4 fuerzas fundamentales del
-universo.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un plano de X vs Y para representar el movimiento de los planetas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Un plano CT vs X para representar la deformación espacio-temporal producida por la estado de movimiento de un cuerpo&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un dibujo que representa las interacciones de las partículas subatómicas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Una lista con los valores de las 4 fuerzas fundamentales del
+universo.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Relatividad 2&lt;/strong&gt;. ¿Que se entiende por &lt;em&gt;Relatividad&lt;/em&gt; en la Teoría de
 &lt;em&gt;Einstein&lt;/em&gt;?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Un nombre que Albert Einstein le puso a su teoría para que sonara más científico.&lt;/li&gt;
-&lt;li&gt;Es un viaje relativo que las partículas sufren al atravesar un agujero de gusano.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Como cambia la percepción del tiempo y el espacio dependiendo del observador&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;La transmutación de los astronautas cuando viajan a la velocidad de la luz.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Un nombre que Albert Einstein le puso a su teoría para que sonara más científico.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Es un viaje relativo que las partículas sufren al atravesar un agujero de gusano.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Como cambia la percepción del tiempo y el espacio dependiendo del observador&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La transmutación de los astronautas cuando viajan a la velocidad de la luz.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Relatividad 3&lt;/strong&gt;. ¿Porqué los &lt;em&gt;fotones&lt;/em&gt; son las únicas partículas que
 viajan a la velocidad de la luz?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;strong&gt;Por que no tienen masa en reposo&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Por que están dentro de las estrellas.&lt;/li&gt;
-&lt;li&gt;Por que tienen masa infinita.&lt;/li&gt;
-&lt;li&gt;Ninguna de las anteriores.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Por que no tienen masa en reposo&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Por que están dentro de las estrellas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Por que tienen masa infinita.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ninguna de las anteriores.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Relatividad 4&lt;/strong&gt;. ¿Puede una partícula &lt;em&gt;subatómica&lt;/em&gt; deformar el
 espacio-tiempo?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Si, por que Albert Einstein lo dijo.&lt;/li&gt;
-&lt;li&gt;No es posible saberlo.&lt;/li&gt;
-&lt;li&gt;No, porque son muy pequeños y su masa no se puede medir.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Si, por que todo cuerpo con masa-energía deforma el
-espacio-tiempo&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Si, por que Albert Einstein lo dijo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;No es posible saberlo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;No, porque son muy pequeños y su masa no se puede medir.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Si, por que todo cuerpo con masa-energía deforma el
+espacio-tiempo&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="fisica-de-particulas"&gt;
 &lt;h2&gt;Física de partículas&lt;/h2&gt;
-&lt;p&gt;Este bloque de preguntas se basa en las sesiones dirigidas por Edward Villegas Pulgarin sobre física de partículas. El material de apoyo recomendado para el repaso del tema es el sitio en inglés &lt;a class="reference external" href="http://www.particleadventure.org/"&gt;The particle adventure&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Este bloque de preguntas se basa en las sesiones dirigidas por Edward Villegas-Pulgarin sobre física de partículas. El material de apoyo recomendado para el repaso del tema es el sitio en inglés &lt;a class="reference external" href="http://www.particleadventure.org/"&gt;The particle adventure&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Física de partículas 1&lt;/strong&gt;. ¿Cuál es la &lt;em&gt;única&lt;/em&gt; partícula elemental
 posible de espín 2?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Cronón.&lt;/li&gt;
-&lt;li&gt;Bosón de Higgs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gravitón&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;span class="math"&gt;\(Z^0\)&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cronón.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bosón de Higgs.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gravitón&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class="math"&gt;\(Z^0\)&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Física de partículas 2&lt;/strong&gt;. ¿Cuales son las dos grandes divisiones de
 las partículas &lt;em&gt;elementales&lt;/em&gt;?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;strong&gt;Fermiones y bosones&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Leptones y cuarks.&lt;/li&gt;
-&lt;li&gt;Bariones y mesones.&lt;/li&gt;
-&lt;li&gt;Hadrones y átomos.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fermiones y bosones&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Leptones y cuarks.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bariones y mesones.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hadrones y átomos.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Física de partículas 3&lt;/strong&gt;. ¿Cuál de las interacciones &lt;em&gt;fundamentales&lt;/em&gt;
 es la más &lt;em&gt;débil&lt;/em&gt;?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Electromagnetismo.&lt;/li&gt;
-&lt;li&gt;Nuclear débil.&lt;/li&gt;
-&lt;li&gt;Nuclear fuerte.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gravedad&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Electromagnetismo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nuclear débil.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nuclear fuerte.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gravedad&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Física de partículas 4&lt;/strong&gt;. En la conversión de un quark &lt;em&gt;rojo&lt;/em&gt; a un
 cuark &lt;em&gt;azul&lt;/em&gt;, se emite un gluón ..&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Antirojo y azul.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rojo y antiazul&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Rojo y antiverde.&lt;/li&gt;
-&lt;li&gt;Antiverde y verde.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Antirojo y azul.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rojo y antiazul&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rojo y antiverde.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Antiverde y verde.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>física</category><category>física de partículas</category><category>relatividad</category><guid>http://scaliburco.github.io/blog/actividad-de-seguimiento-20171/</guid><pubDate>Sun, 28 May 2017 16:03:25 GMT</pubDate></item><item><title>Reunión de grupo 20170204</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20170204/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La sesión inicia con las indicaciones generales sobre los cambios presentes para el año 2017 y los elementos presentes del año anterior. Referenciar las reglas en el correo enviado la semana anterior.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>física</category><category>física de partículas</category><category>relatividad</category><guid>http://scaliburco.github.io/blog/actividad-de-seguimiento-20171/</guid><pubDate>Sun, 28 May 2017 16:03:25 GMT</pubDate></item><item><title>Reunión de grupo 20170204</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20170204/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La sesión inicia con las indicaciones generales sobre los cambios presentes para el año 2017 y los elementos presentes del año anterior. Referenciar las reglas en el correo enviado la semana anterior.&lt;/p&gt;
 &lt;p&gt;Daniel Muñoz realiza la exposición sobre &lt;a href="https://www.slideshare.net/ScaliburCo/viajes-en-el-tiempo-75637760"&gt;“Relatividad y viajes en el tiempo”&lt;/a&gt; de la cual se conversa sobre la relatividad especial y queda pendiente la parte de relatividad general. Hay énfasis en los conceptos básicos requeridos y un extenso análisis de la simultaneidad y del diagrama de Minkowski. Hay disponible presentación. Si tienes cuenta de slideshare nos la compartes por ese medio o la mandas por correo y empezamos a crear un espacio común para el material.&lt;/p&gt;
 &lt;p&gt;Queda pendiente para aclarar algunos temas expuestos en la sesión de relatividad que Edward Villegas realice una sesión sobre partículas fundamentales.&lt;/p&gt;
 &lt;p&gt;Edward Villegas realiza el inicio de las actividades “avanzadas” mediante una actividad de nivelación de matemáticas. La primera sesión correspondió a los conjuntos numéricos y su origen, enmarcados en un contexto histórico y cultural en el cual los números aparecen como una necesidad en un orden que coincide con la jerarquía de los mismos. Queda como actividades:  &lt;/p&gt;

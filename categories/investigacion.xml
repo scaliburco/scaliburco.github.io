@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre investigación)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/categories/investigacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2019 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre investigación)</title><link>http://scaliburco.org/</link><description></description><atom:link href="http://scaliburco.github.io/categories/investigacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2020 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 29 Mar 2019 01:23:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunion de grupo 20181124</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</link><dc:creator>Edward Villeas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En nuestra última reunión, algunos de los beneficiarios participaron
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 31 Mar 2020 02:44:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunion de grupo 20181124</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</link><dc:creator>Edward Villeas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En nuestra última reunión, algunos de los beneficiarios participaron
 realizando exposiciones de los temas que decidieron investigar durante el
 segundo semestre del año.&lt;/p&gt;
 &lt;p&gt;Fue una sesión donde la participación activa determinó un gran aporte para
 cada uno de los asistentes, y no solo de aquellos que se animaron a compartir
 lo alcanzado.&lt;/p&gt;
 &lt;p&gt;Las exposiciones realizadas fueron:&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
+&lt;table&gt;
 &lt;colgroup&gt;
-&lt;col width="29%"&gt;
-&lt;col width="71%"&gt;
+&lt;col style="width: 29%"&gt;
+&lt;col style="width: 71%"&gt;
 &lt;/colgroup&gt;
-&lt;thead valign="bottom"&gt;
-&lt;tr&gt;&lt;th class="head"&gt;Expositor&lt;/th&gt;
-&lt;th class="head"&gt;Tema&lt;/th&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th class="head"&gt;&lt;p&gt;Expositor&lt;/p&gt;&lt;/th&gt;
+&lt;th class="head"&gt;&lt;p&gt;Tema&lt;/p&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;Carolina Escobar&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Déjà vu&lt;/em&gt;&lt;/td&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;p&gt;Carolina Escobar&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&lt;em&gt;Déjà vu&lt;/em&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Jerónimo Cardona&lt;/td&gt;
-&lt;td&gt;Materia oscura&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;p&gt;Jerónimo Cardona&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Materia oscura&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Cristian&lt;/td&gt;
-&lt;td&gt;Universe Sandbox2&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;p&gt;Cristian&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Universe Sandbox2&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Santiago Mesa y Paulina Vargas&lt;/td&gt;
-&lt;td&gt;¿Existe el cáncer de corazón?&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;p&gt;Santiago Mesa y Paulina Vargas&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;¿Existe el cáncer de corazón?&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Manuela Gómez&lt;/td&gt;
-&lt;td&gt;Asistencia psicológica por inteligencia artificial en misiones a marte&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&lt;p&gt;Manuela Gómez&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;Asistencia psicológica por inteligencia artificial en misiones a marte&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>ciencia</category><category>divulgación</category><category>investigación</category><category>proyectos</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</guid><pubDate>Sat, 24 Nov 2018 22:04:57 GMT</pubDate></item><item><title>Reunión de grupo: febrero de 2018</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-201802/</link><dc:creator>Edward Villegas Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Durante el mes de febrero se dan nuestras primeras sesiones del año. Si bien las
+&lt;/table&gt;&lt;/div&gt;</description><category>ciencia</category><category>divulgación</category><category>investigación</category><category>proyectos</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-20181124/</guid><pubDate>Sat, 24 Nov 2018 22:04:57 GMT</pubDate></item><item><title>Reunión de grupo: febrero de 2018</title><link>http://scaliburco.github.io/blog/reunion-de-grupo-201802/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Durante el mes de febrero se dan nuestras primeras sesiones del año. Si bien las
 reuniones iniciaron oficialmente el 27 de enero, esta fue de información general
 sobre el desarrollo del año y algunos avisos generales.&lt;/p&gt;
 &lt;p&gt;A continuación un resumen de las sesiones.&lt;/p&gt;
@@ -61,23 +61,23 @@ las actividades prácticas que se realizarían en el Jardín Botánico de Medell
 &lt;h2&gt;Durante febrero&lt;/h2&gt;
 &lt;p&gt;Durante el mes de febrero nos encontramos con las siguientes actividades:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Paulina Vargas termina la exposición sobre datación de la edad de la Tierra.
-La actividad se desarrolla el 3 de febrero.&lt;/li&gt;
-&lt;li&gt;Santiago Mesa realiza una exposición de entrenamiento para su conferencia en
+&lt;li&gt;&lt;p&gt;Paulina Vargas termina la exposición sobre datación de la edad de la Tierra.
+La actividad se desarrolla el 3 de febrero.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Santiago Mesa realiza una exposición de entrenamiento para su conferencia en
 PyCon Colombia 2018 el 3 de febrero y el 17 de febrero presenta la versión
 final que presento en el congreso. Puedes saber más al respecto en
-&lt;a class="reference external" href="http://scaliburco.github.io/blog/scalibur-en-pycon-2018/"&gt;Scalibur en PyCon 2018&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Mateo Pineda realiza una exposición sobre las generaciones de los computadores
-el 10 de febrero.&lt;/li&gt;
-&lt;li&gt;Edward Villegas Pulgarin retoma el estudió en el grupo de las leyes de Kepler
+&lt;a class="reference external" href="http://scaliburco.github.io/blog/scalibur-en-pycon-2018/"&gt;Scalibur en PyCon 2018&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mateo Pineda realiza una exposición sobre las generaciones de los computadores
+el 10 de febrero.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Edward Villegas-Pulgarin retoma el estudió en el grupo de las leyes de Kepler
 el 17 de febrero que se llevaba desde &lt;a class="reference external" href="http://scaliburco.github.io/blog/reunion-de-grupo-20171021/"&gt;2017&lt;/a&gt;.
 Inicialmente se realiza un repaso de las primeras dos leyes de Kepler y se
 finaliza enunciando la tercera ley de Kepler (&lt;span class="math"&gt;\(T^2 \propto R^3\)&lt;/span&gt;) con
 ejemplo gráfico de su exploración con los datos del sistema solar (gráfico
 lineal de la proporción). Se continuará el análisis de la tercera ley desde
-las leyes de movimiento y gravitación de Newton.&lt;/li&gt;
-&lt;li&gt;En la sesión del 24 de febrero, Sebastian Ramirez realiza una exposición sobre
+las leyes de movimiento y gravitación de Newton.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;En la sesión del 24 de febrero, Sebastian Ramirez realiza una exposición sobre
 ejemplos de la inteligencia artificial, diferencias con la robótica y su
-potencial uso en la ciencia.&lt;/li&gt;
+potencial uso en la ciencia.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>ciencia</category><category>divulgación</category><category>investigación</category><guid>http://scaliburco.github.io/blog/reunion-de-grupo-201802/</guid><pubDate>Mon, 19 Feb 2018 00:12:03 GMT</pubDate></item></channel></rss>
