@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Organización Scalibur"  # (translatable)
 BLOG_TITLE = "Organización Scalibur"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://scaliburco.org/"
+SITE_URL = "https://www.scaliburco.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "http://scaliburco.github.io/"
+BASE_URL = "https://scaliburco.github.io/"
 BLOG_EMAIL = "scaliburco@gmail.com"
 BLOG_DESCRIPTION = "Página oficial de la Organización Scalibur para la Investigación y la ciencia."  # (translatable)
 
