@@ -22,7 +22,7 @@ notificando a través de redes sociales, para confirmar el enlace de conexión y
 manteniendo la hora de reunión tradicional (2 p. m.) con duración máxima de 2
 horas.
 
-.. figure:: https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/s960x960/90914023_2624942094456947_3318134670230552576_o.png?_nc_cat=107&_nc_sid=8024bb&_nc_eui2=AeFtRinhylpejjewn3svBy6_-ufYIZn06ON1UYqBlq8CEkqsegfxwSXW8Qlh6w9tFSAo91jrzTNb7Gkszxs37VmEVg8lSZ53qGVqkx_kIOf3Qg&_nc_oc=AQka3UGkStxV-ScJvpm9CvLMO4rXLs4E7irNtIZ6hHtlXgB0CwYyYtmur4AUE66X5Y4&_nc_ht=scontent.feoh1-1.fna&oh=cc7e3dce5dacbcc2f87df78f637a58f8&oe=5EA95C39
+.. figure:: https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/90914023_2624942094456947_3318134670230552576_o.png?_nc_cat=107&_nc_sid=8024bb&_nc_eui2=AeFDIya25-q9ALnPXwnDQwIUMm0ewMOPA3sybR7Aw48De8oJe5A2_ANByE2kXdLWykpqyYZjPe1XUvdsmvuYYmo3&_nc_oc=AQlHafX1M-js56AF55SxPxArzEpBvlqi3KoXZtOV-JHjhdFDwhGtqBs4d0taFKuvLcI&_nc_ht=scontent.feoh1-1.fna&oh=ae1fda4a96694eea8b66d4da8a90662c&oe=5F0E0DE0
    :height: 450
    :width: 600
    :align: center

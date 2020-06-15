@@ -222,15 +222,15 @@ THEME_CONFIG = {
 POSTS = (
     ("posts/*.rst", "blog", "post.tmpl"),
     ("posts/*.md", "blog", "post.tmpl"),
-    ("posts/*.txt", "blog", "post.tmpl"),
-    ("posts/*.html", "blog", "post.tmpl"),
-    ("posts/*.ipynb", "blog", "post.tmpl"),
+    #("posts/*.txt", "blog", "post.tmpl"),
+    #("posts/*.html", "blog", "post.tmpl"),
+    #("posts/*.ipynb", "blog", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "corp", "page.tmpl"),
     ("pages/*.md", "corp", "page.tmpl"),
-    ("pages/*.txt", "corp", "page.tmpl"),
-    ("pages/*.html", "corp", "page.tmpl"),
+    #("pages/*.txt", "corp", "page.tmpl"),
+    #("pages/*.html", "corp", "page.tmpl"),
 )
 
 
@@ -253,7 +253,7 @@ FORCE_ISO8601 = True
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'YYYY-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
@@ -294,20 +294,20 @@ FORCE_ISO8601 = True
 COMPILERS = {
     "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm'),
+    #"textile": ('.textile',),
+    #"txt2tags": ('.t2t',),
+    #"bbcode": ('.bb',),
+    #"wiki": ('.wiki',),
+    #"ipynb": ('.ipynb',),
+    #"html": ('.html', '.htm'),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    #"php": ('.php',),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
-    "pandoc": ('.odt', '.docx', '.py'),
+    "pandoc": ('.odt', '.docx'),
 }
 
 # Create by default posts in one file format?
@@ -1202,7 +1202,18 @@ USE_CDN = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169406483-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169406483-1');
+</script>
+
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
