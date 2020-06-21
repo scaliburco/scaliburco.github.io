@@ -12,5 +12,5 @@ Bienvenidos a esta nueva sesión virtual. En esta ocasión hablamos sobre el
 software de astronomía `Space Engine <http://spaceengine.org/>`_, el cual es de
 descarga gratuita.
 
-.. youtube:: https://youtu.be/wN_GsEzIY2Y
+.. youtube:: wN_GsEzIY2Y
    :align: center

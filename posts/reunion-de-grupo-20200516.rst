@@ -14,5 +14,5 @@ descubrimiento científico, en buena medida soportados en el trabajo de Kuhn
 científico en los cuales se incluye además del paradigma teórico y
 experimental, los paradigmas computacionales y de analítica de datos.
 
-.. youtube:: https://youtu.be/4NreQfREV5c
+.. youtube:: 4NreQfREV5c
    :align: center

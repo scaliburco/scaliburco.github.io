@@ -11,5 +11,5 @@
 En esta ocasión conversamos sobre como se resuelven los problemas de física en
 la vida real, asistidos de los computadores y los métodos numéricos.
 
-.. youtube:: https://youtu.be/cb5akieNxAw
+.. youtube:: cb5akieNxAw
    :align: center

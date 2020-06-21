@@ -13,5 +13,5 @@ Se trata el tema de la luz desde un punto de vista cosmológico
 
 Esta es la última reunión del semestre y volvemos en agosto.
 
-.. youtube:: https://youtu.be/MXmm9e6IyTQ
+.. youtube:: MXmm9e6IyTQ
    :align: center

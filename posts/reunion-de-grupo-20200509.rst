@@ -11,5 +11,5 @@
 En esta ocasión hablaremos de astronomía de posición apoyándonos del sofware
 `Stellarium <http://stellarium.org/>`_. Esperamos que lo disfruten.
 
-.. youtube:: https://youtu.be/fDyOuNtG1pM
+.. youtube:: fDyOuNtG1pM
    :align: center

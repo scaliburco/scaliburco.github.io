@@ -16,7 +16,7 @@ también vimos importante aprovechar a dejar un registro de estas.
 En esta reunión se trataron los temas de entrenamiento de astronautas desde el
 aspecto psicológico y el tema de la muerte en el espacio.
 
-.. youtube:: https://youtu.be/rO7cEf-4dXU
+.. youtube:: rO7cEf-4dXU
    :align: center
 
 Seguiremos compartiendo las próximas reuniones.
