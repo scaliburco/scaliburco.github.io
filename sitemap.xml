@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://scaliburco.github.io/</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/2016/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/archive.html</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/authors/</loc>
@@ -63,7 +63,7 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/authors/edward-villegas-pulgarin/index-3.html</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/authors/organizacion-scalibur/</loc>
@@ -210,6 +210,30 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200425/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200502/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200509/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200516/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200523/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/blog/reunion-de-grupo-20200530/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/blog/scalibur-en-la-cuarentena/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -223,7 +247,7 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/4d/</loc>
@@ -242,6 +266,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/astronomia-de-posicion/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/astronomia/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -254,6 +282,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/carrera-espacial/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/cat_corporacion/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -263,7 +295,7 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/avisos/</loc>
@@ -271,11 +303,19 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/index-1.html</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/index-2.html</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/index-3.html</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/reunion-virtual/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/cat_grupo-scalibur/reunion/</loc>
@@ -302,6 +342,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/ciclo-de-kuhn/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/ciencia/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -320,6 +364,10 @@
  <url>
   <loc>https://scaliburco.github.io/categories/comfenalco/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/computadores-en-fisica/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/conferencia/</loc>
@@ -350,6 +398,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/descubrimiento-cientifico/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/dimensiones/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -370,12 +422,20 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/entrenamiento-de-astronautas/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/espectro-electromagnetico/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/falsos-positivos/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/fisica-computacional/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/fisica-de-particulas/</loc>
@@ -410,6 +470,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/luz/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/matematicas/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -424,6 +488,14 @@
  <url>
   <loc>https://scaliburco.github.io/categories/medicion/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/metodos-numericos/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/muerte-en-el-espacio/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/mujeres/</loc>
@@ -454,6 +526,10 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/paradigmas-de-la-ciencia/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/planetario-de-medellin/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
@@ -468,6 +544,10 @@
  <url>
   <loc>https://scaliburco.github.io/categories/presencia-web/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/problemas-de-fisica/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/programacion/</loc>
@@ -492,6 +572,10 @@
  <url>
   <loc>https://scaliburco.github.io/categories/quimica/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/radiacion-de-fondo-cosmico/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/radiacion/</loc>
@@ -534,8 +618,24 @@
   <lastmod>2020-06-15T15:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://scaliburco.github.io/categories/software-astronomico/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/software-de-astronomia/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://scaliburco.github.io/categories/sol/</loc>
   <lastmod>2020-06-15T15:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/space-engine/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/categories/stellarium/</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/categories/trigonometria/</loc>
@@ -579,7 +679,11 @@
  </url>
  <url>
   <loc>https://scaliburco.github.io/index-3.html</loc>
-  <lastmod>2020-06-15T15:59:00Z</lastmod>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://scaliburco.github.io/index-4.html</loc>
+  <lastmod>2020-06-21T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://scaliburco.github.io/listings/</loc>
