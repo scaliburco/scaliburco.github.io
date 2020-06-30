@@ -23,7 +23,7 @@ BLOG_TITLE = "Organización Scalibur"  # (translatable)
 SITE_URL = "https://www.scaliburco.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "https://scaliburco.github.io/"
+BASE_URL = "https://www.scaliburco.org/" # "https://scaliburco.github.io/"
 BLOG_EMAIL = "scaliburco@gmail.com"
 BLOG_DESCRIPTION = "Página oficial de la Organización Scalibur para la Investigación y la ciencia."  # (translatable)
 
