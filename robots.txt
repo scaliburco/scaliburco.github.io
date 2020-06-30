@@ -1,4 +1,4 @@
-Sitemap: https://scaliburco.github.io/sitemapindex.xml
+Sitemap: https://www.scaliburco.org/sitemapindex.xml
 
 User-Agent: *
-Host: scaliburco.github.io
+Host: www.scaliburco.org
