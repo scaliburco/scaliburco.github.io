@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre astronomía)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/astronomia.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre astronomía)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/astronomia.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 26 Mar 2021 20:47:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de grupo 20190216</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20190216/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La reunión del día inicia a las 11 a. m. recordando que las sesiones durante
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 30 Mar 2022 00:54:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reunión de grupo 20190216</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20190216/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La reunión del día inicia a las 11 a. m. recordando que las sesiones durante
 el presente año la duración es de 2 horas y por ende inician de manera cumplida
 para el mayor aprovechamiento del tiempo.&lt;/p&gt;
 &lt;p&gt;A continuación, Edward Villegas continúa con el contexto necesario para comprender
@@ -50,7 +50,7 @@ formación en ciencia de los niños y jóvenes.&lt;/p&gt;
 conmemoraciones asociadas a la historia de la astronomía y ciencia en general
 como lo son los 100 años de la Unión Internacional de Astronomía y los 50 años
 de la llegada del hombre a la luna.&lt;/p&gt;
-&lt;div class="section" id="horas-de-astronomia"&gt;
+&lt;section id="horas-de-astronomia"&gt;
 &lt;h2&gt;100 horas de astronomía&lt;/h2&gt;
 &lt;p&gt;Este es el primer programa al cual nos uniremos, siendo desarrollado a nivel
 mundial entre el 10 y 13 de enero de 2019. En nuestro caso particular,
@@ -63,15 +63,15 @@ Colombia, puedes consultar la página de la
 #100HoursOfAstronomy, y nuestro usuario @scaliburco en
 &lt;a class="reference external" href="https://twitter.com/scaliburco"&gt;twitter&lt;/a&gt; y
 &lt;a class="reference external" href="https://www.facebook.com/scaliburco/"&gt;facebook&lt;/a&gt; (Organización Scalibur).&lt;/p&gt;
-&lt;div class="section" id="estetica-de-la-astronomia-armonia-entre-la-ciencia-y-el-arte"&gt;
+&lt;section id="estetica-de-la-astronomia-armonia-entre-la-ciencia-y-el-arte"&gt;
 &lt;h3&gt;Estética de la astronomía: armonía entre la ciencia y el arte&lt;/h3&gt;
 &lt;p&gt;Explora la relación a través de la historia entre los descubrimientos
 científicos y las observaciones en la astronomía y las grandes inspiraciones
 de pintores, músicos y escritores. Ahora puedes ver la astronomía como un
 arte, donde el concepto artístico del color y el sonido aparecen.&lt;/p&gt;
 &lt;p&gt;Hora: 2 p. m.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="taller-las-constelaciones-y-sus-mitos-griegos"&gt;
+&lt;/section&gt;
+&lt;section id="taller-las-constelaciones-y-sus-mitos-griegos"&gt;
 &lt;h3&gt;Taller: Las constelaciones  y sus mitos griegos&lt;/h3&gt;
 &lt;p&gt;Mediante la observación del cielo en una noche clara, este es el primer paso
 para agrupar las estrellas en la forma que son conocidas hoy, constelaciones.
@@ -83,16 +83,16 @@ predefinidos es el participante con su ingenio y creatividad quien los agrupa
 a su manera. Durante el taller, se cuentan las historias que vinculan a
 algunas que encontramos en el cielo acorde a la agrupación moderna.&lt;/p&gt;
 &lt;p&gt;Hora: 3:00 p. m.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="otras-actividades"&gt;
+&lt;/section&gt;
+&lt;section id="otras-actividades"&gt;
 &lt;h3&gt;Otras actividades&lt;/h3&gt;
 &lt;p&gt;No seremos los únicos presentes en 100 horas de astronomía, y el Planetario de
 Medellín no solo nos apoyará a nuestra Organización, sino al
 &lt;a class="reference external" href="https://www.facebook.com/ClubOrionDeAstronomiaDeMedellin/"&gt;Club Orión de Astronomía&lt;/a&gt;
 para el desarrollo de más actividades durante los 3 días de la campaña (jueves
 10, viernes 11 y sábado 12).&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>iau</category><category>planetario de medellín</category><category>unión internacional de astronomía</category><guid>https://www.scaliburco.org/blog/100-horas-de-astronomia/</guid><pubDate>Tue, 25 Dec 2018 16:17:33 GMT</pubDate></item><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
+&lt;/section&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>iau</category><category>planetario de medellín</category><category>unión internacional de astronomía</category><guid>https://www.scaliburco.org/blog/100-horas-de-astronomia/</guid><pubDate>Tue, 25 Dec 2018 16:17:33 GMT</pubDate></item><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
 nivel nacional e internacional ha sido un elemento importante para la formación
 complementaria.&lt;/p&gt;
 &lt;p&gt;Así, es como entre el año anterior y el presente nos hemos integrado a las
@@ -103,7 +103,7 @@ asteroides.&lt;/p&gt;
 grupo el trabajo con lenguaje python para su uso en astronomía. De esta
 actividad, uno de los trabajos desarrollados se presentó a PyCon y fue aprobado
 para conferencia.&lt;/p&gt;
-&lt;div class="section" id="simulador-de-sistemas-planetarios"&gt;
+&lt;section id="simulador-de-sistemas-planetarios"&gt;
 &lt;h2&gt;Simulador de sistemas planetarios&lt;/h2&gt;
 &lt;p&gt;Santiago Mesa, es un joven de 16 años que se encuentra en grado 11 y lleva
 5 años con el grupo Scalibur (nuestro grupo de ciencia). Su proyecto para el
@@ -123,8 +123,8 @@ participación y ser el conferencista más joven del evento.&lt;/p&gt;
 &lt;a class="reference external" href="https://github.com/samez21/leyes-kepler"&gt;repositorio github&lt;/a&gt;
 en el cual se encuentra alojado el código y que seguirá actualizándose conforme
 avanza el proceso de aprendizaje de Santiago.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="jupyter-notebook-en-el-aula-de-clase"&gt;
+&lt;/section&gt;
+&lt;section id="jupyter-notebook-en-el-aula-de-clase"&gt;
 &lt;h2&gt;Jupyter Notebook en el aula de clase&lt;/h2&gt;
 &lt;p&gt;Por parte de nuestra organización, también participó en PyCon Colombia 2018,
 Edward Villegas-Pulgarin, vicepresidente de la organización, con su conferencia
@@ -136,19 +136,19 @@ proyecto Jupyter Notebook.&lt;/p&gt;
 el código de apoyo y ejecutarlo en tu equipo o en línea a través de MyBinder.
 Igualmente, puedes ver la presentación en
 &lt;a class="reference external" href="https://es.slideshare.net/cosmoscalibur/usando-notebook-en-el-aula)"&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Charla: ¿Qué son esos puntos blancos en el cielo y por qué son importantes?</title><link>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La Organización Scalibur para la Investigación y la ciencia invita a su Junta Directiva, beneficiarios y público en general a participar de la charla de divulgación &lt;em&gt;¿Qué son esos puntos blancos en el cielo y por qué son importantes?&lt;/em&gt;, en el espacio habitual de las reuniones de la Sociedad Julio Garavito y dictada por el astrónomo &lt;a class="reference external" href="http://astronomia-udea.co/principal/es/EstebanSilva"&gt;Esteban Silva-Villa&lt;/a&gt; (profesor de la Universidad de Antioquia).&lt;/p&gt;
-&lt;div class="admonition important"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Charla: ¿Qué son esos puntos blancos en el cielo y por qué son importantes?</title><link>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La Organización Scalibur para la Investigación y la ciencia invita a su Junta Directiva, beneficiarios y público en general a participar de la charla de divulgación &lt;em&gt;¿Qué son esos puntos blancos en el cielo y por qué son importantes?&lt;/em&gt;, en el espacio habitual de las reuniones de la Sociedad Julio Garavito y dictada por el astrónomo &lt;a class="reference external" href="http://astronomia-udea.co/principal/es/EstebanSilva"&gt;Esteban Silva-Villa&lt;/a&gt; (profesor de la Universidad de Antioquia).&lt;/p&gt;
+&lt;aside class="admonition important"&gt;
 &lt;p class="admonition-title"&gt;Importante&lt;/p&gt;
 &lt;p&gt;Por este motivo, y en vista de la pertinencia de la charla en el proceso formativo de nuestros beneficiarios, la reunión habitual de nuestro grupo se cancela para favorecer la participación en la charla.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resumen"&gt;
+&lt;/aside&gt;
+&lt;section id="resumen"&gt;
 &lt;h2&gt;Resumen&lt;/h2&gt;
 &lt;p&gt;La Humanidad ha estado fascinada por el cielo desde el principio de nuestra civilización. Descubrir que esos puntos blancos en el cielo son estrellas iguales a nuestro sol nos ha llevado a entender nuestro Universo. En esta charla hablaremos particularmente sobre la Astrofísica Estelar, aquella dedicada al estudio de las estrellas, su evolución y relevancia en el Universo. Tocaremos algunos temas de investigación específicos que se están (o se han) desarrollando con estudiantes del programa de pregrado y postgrado en Astronomía.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="lugar-y-hora"&gt;
+&lt;/section&gt;
+&lt;section id="lugar-y-hora"&gt;
 &lt;h2&gt;Lugar y hora&lt;/h2&gt;
 &lt;p&gt;La charla se realizará en el Auditorio del Planetario de Medellín a las 11 A.M.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>charla</category><category>divulgación</category><category>sociedad julio garavito</category><guid>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</guid><pubDate>Thu, 23 Nov 2017 01:45:21 GMT</pubDate></item><item><title>Reunión de grupo 20171118</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20171118/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En la reunión habitual desarrollada el 18 de noviembre, además de la &lt;a class="reference external" href="https://www.scaliburco.org/blog/novedades-de-noviembre-de-2017/"&gt;actividad iniciada por Paulina Vargas&lt;/a&gt;, Juan Carlos Molina dirigió dos actividades de video.&lt;/p&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>charla</category><category>divulgación</category><category>sociedad julio garavito</category><guid>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</guid><pubDate>Thu, 23 Nov 2017 01:45:21 GMT</pubDate></item><item><title>Reunión de grupo 20171118</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20171118/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En la reunión habitual desarrollada el 18 de noviembre, además de la &lt;a class="reference external" href="https://www.scaliburco.org/blog/novedades-de-noviembre-de-2017/"&gt;actividad iniciada por Paulina Vargas&lt;/a&gt;, Juan Carlos Molina dirigió dos actividades de video.&lt;/p&gt;
 &lt;p&gt;La primera de ellas correspondió a un video sobre astronomía básica asociada al reconocimiento de constelaciones.&lt;/p&gt;
 &lt;div class="youtube-video align-center"&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SO4PFN_ON8w?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
@@ -159,41 +159,41 @@ Igualmente, puedes ver la presentación en
 &lt;p&gt;Antes que nada, se introduce la conservación de momento lineal, su concepto, ecuación y ejemplos de aplicación cotidiana con cálculos simples.&lt;/p&gt;
 &lt;p&gt;Una vez se realizo la comprensión de este concepto, se avanza a la presentación de la conservación del momento angular como un equivalente para el movimiento circular, y su análisis de las variables de masa, radio de giro y velocidad (&lt;span class="math"&gt;\(L=mvr\)&lt;/span&gt;).&lt;/p&gt;
 &lt;p&gt;Se hace ejemplificación de la relación de las variables con casos como la velocidad de rotación de las estrellas de neutrones (al reducir su radio por la expulsión de capas exteriores pero conservar una gran cantidad de masa, su velocidad de rotación se incrementa de manera importante) y en la órbita de cuerpos (al acercarse el cuerpo orbitante al cuerpo central su velocidad orbital aumenta).&lt;/p&gt;
-&lt;p&gt;El desarrollo de la tercera ley de Kepler queda pendiente para las sesiones de 2018.&lt;/p&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>física</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20171021/</guid><pubDate>Sun, 22 Oct 2017 02:49:48 GMT</pubDate></item><item><title>Reunión de grupo 20171007</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20171007/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;div class="section" id="campana-de-asteroides"&gt;
+&lt;p&gt;El desarrollo de la tercera ley de Kepler queda pendiente para las sesiones de 2018.&lt;/p&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>física</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20171021/</guid><pubDate>Sun, 22 Oct 2017 02:49:48 GMT</pubDate></item><item><title>Reunión de grupo 20171007</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20171007/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;section id="campana-de-asteroides"&gt;
 &lt;h2&gt;Campaña de asteroides&lt;/h2&gt;
 &lt;p&gt;La reunión inicia con un anuncio de Juan Carlos Molina sobre la recepción del último paquete de fotografías para análisis de la campaña de asteroides y reportando los hasta ahora candidatos detectados por nuestros beneficiarios participantes.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="convenciones-en-la-fisica"&gt;
+&lt;/section&gt;
+&lt;section id="convenciones-en-la-fisica"&gt;
 &lt;h2&gt;Convenciones en la física&lt;/h2&gt;
 &lt;p&gt;Edward Villegas-Pulgarin continúa con la discusión del final de la sesión anterior sobre convenciones en la física. La sesión anterior se había terminado en una pregunta para pensar, si el concepto de carga negativa y positiva tenía una razón de ser &lt;em&gt;a priori&lt;/em&gt; o si se trataba de una mera convención de nombre (como lo es realmente).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="segunda-ley-de-kepler"&gt;
+&lt;/section&gt;
+&lt;section id="segunda-ley-de-kepler"&gt;
 &lt;h2&gt;Segunda ley de Kepler&lt;/h2&gt;
 &lt;p&gt;Edward Villegas-Pulgarin continúa el detalle de las leyes de Kepler, en particular el estudio de la segunda ley. Esto comienza con el análisis de algunas propiedades de las elipses, la definición de sus focos y ejes, la construcción por el método del granjero y finalmente enunciar la segunda ley. Se muestra como esta implica que la velocidad orbital es variable y su relación con la fuerza de gravedad a raíz del cuerpo principal.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="lanzamiento-de-cohetes"&gt;
+&lt;/section&gt;
+&lt;section id="lanzamiento-de-cohetes"&gt;
 &lt;h2&gt;Lanzamiento de cohetes&lt;/h2&gt;
 &lt;p&gt;Daniel Muñoz comienza una inducción al lanzamiento de cohetes de agua, que es la próxima temática práctica que inicia el 14 de octubre de 2017 (como ha sido costumbre, en el jardín botánico).&lt;/p&gt;
 &lt;p&gt;Esta primera aproximación se realiza enunciando el tiro parabólico y su composición del movimiento a partir de los dos movimientos independientes: horizontal y vertical. Edward Villegas-Pulgarin promueve la actividad de identificar a partir de lo expuesto las diferencias respecto a un lanzamiento de un cohete (de agua en este caso particular).&lt;/p&gt;
 &lt;p&gt;Daniel Muñoz y Paula Nevado estarán notificando los elementos requeridos para iniciar la actividad práctica, pero recomendamos desde ya tener listo cuerda, cinta métrica, aplicación &lt;em&gt;physics toolbox suite&lt;/em&gt; y botellas plásticas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>cohetes</category><category>divulgación</category><category>física</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20171007/</guid><pubDate>Sun, 08 Oct 2017 04:32:49 GMT</pubDate></item><item><title>Reunión de grupo 20170923</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170923/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;div class="section" id="primera-ley-de-kepler"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>cohetes</category><category>divulgación</category><category>física</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20171007/</guid><pubDate>Sun, 08 Oct 2017 04:32:49 GMT</pubDate></item><item><title>Reunión de grupo 20170923</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170923/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;section id="primera-ley-de-kepler"&gt;
 &lt;h2&gt;Primera ley de Kepler&lt;/h2&gt;
 &lt;p&gt;Edward Villegas-Pulgarin nos explica la primera ley de Kepler. Como se vio, no es tan simple como su enunciado si se desea comprender la razón misma de esta. Las leyes de Kepler poseen un carácter muy empírico y corresponden a un caso muy específico de la dinámica de los cuerpos del sistema solar teniendo como restricción que permanecen en órbita y que el cuerpo principal es supremamente masivo para despreciar su movimiento. Se introduce el concepto de las curvas cónicas, su presencia como posibles trayectorias de cuerpos celestes y el concepto de centro de masa.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="campana-de-busqueda-de-asteroides"&gt;
+&lt;/section&gt;
+&lt;section id="campana-de-busqueda-de-asteroides"&gt;
 &lt;h2&gt;Campaña de búsqueda de asteroides&lt;/h2&gt;
 &lt;p&gt;Juan Carlos Molina realiza informe de la actividad de búsqueda de asteroides.&lt;/p&gt;
 &lt;p&gt;La actividad cuya capacitación empezó en el mes de agosto, asociada a la &lt;a class="reference external" href="http://iasc.hsutx.edu/"&gt;International Astronomical Search Collaboration&lt;/a&gt; ha dado ya los primeros frutos para nuestros beneficiarios, detectando ya oficialmente 2 candidatos a asteroides. Hay que aclarar que estos candidatos pasan por un proceso de validación de hasta 5 años antes de ser confirmados y definirse la política asociada para su nombramiento, en el cual nuestros beneficiarios podrán participar.&lt;/p&gt;
 &lt;p&gt;Aún quedan varias semanas, así que esperamos que la cuota de descubrimiento de candidatos a asteroides aumente antes de finalizar el programa.&lt;/p&gt;
 &lt;p&gt;Esta actividad es realizada con el software &lt;a class="reference external" href="http://iasc.hsutx.edu/Astrometrica.html"&gt;astrometrica&lt;/a&gt; y nos expone su funcionamiento con los parámetros usados en este proyecto. Mateo Pineda nos muestra que el software funciona sin problema en linux gracias a wine.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>asteroides</category><category>astrometrica</category><category>astronomía</category><category>divulgación</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170923/</guid><pubDate>Sun, 24 Sep 2017 04:31:22 GMT</pubDate></item><item><title>Reunión de grupo 20170902</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas-Pulgarin.&lt;/p&gt;
-&lt;div class="section" id="leyes-de-kepler"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>asteroides</category><category>astrometrica</category><category>astronomía</category><category>divulgación</category><category>kepler</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170923/</guid><pubDate>Sun, 24 Sep 2017 04:31:22 GMT</pubDate></item><item><title>Reunión de grupo 20170902</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas-Pulgarin.&lt;/p&gt;
+&lt;section id="leyes-de-kepler"&gt;
 &lt;h2&gt;Leyes de Kepler&lt;/h2&gt;
 &lt;p&gt;Se discute como el factor de la distancia de los cuerpos influye en la forma de  determinar su distancia. De manera general se observa que las distancias más cortas de cuerpos celestes representan cuerpos en los cuales sus movimientos son apreciables y por ende una metodología como la hasta ahora discutida usando trigonometría (paralaje) no es funcional.&lt;/p&gt;
 &lt;p&gt;En este caso, se debe tener información del movimiento para poder determinar la distancia. Un ejemplo de este caso, es justo el uso de las leyes de Kepler para determinar la distancia de los cuerpos al sol, cuando esté último es el cuerpo central. Se comenta históricamente la aproximación empírica de Titius-Bode y la importancia de la acumulación de los datos de Tycho Brahe.&lt;/p&gt;
 &lt;p&gt;Se realiza un ejercicio rápido de cálculo de distancia conociendo el periodo de Saturno. Se discutirá en detalle cada una de las leyes de Kepler en las siguientes sesiones.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="programacion"&gt;
+&lt;/section&gt;
+&lt;section id="programacion"&gt;
 &lt;h2&gt;Programación&lt;/h2&gt;
 &lt;p&gt;En este punto se comenta brevemente de manera histórica como el desarrollo de hardware inicial en Estados Unidos llevo a implicaciones hoy aplicables, como la codificación de caracteres y restricción de uso de ciertos caracteres especiales. Se menciona brevemente el código ASCII y UTF-8.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</guid><pubDate>Sun, 03 Sep 2017 04:30:32 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</guid><pubDate>Sun, 03 Sep 2017 04:30:32 GMT</pubDate></item></channel></rss>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre eventos)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/cat_eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre eventos)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/cat_eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 26 Mar 2021 20:47:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>100 horas de astronomía</title><link>https://www.scaliburco.org/blog/100-horas-de-astronomia/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Para nuestra Organización es importante ser parte activa de las actividades de
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 30 Mar 2022 00:54:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>100 horas de astronomía</title><link>https://www.scaliburco.org/blog/100-horas-de-astronomia/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Para nuestra Organización es importante ser parte activa de las actividades de
 divulgación científica que se desarrollan en la ciudad y contribuir a la
 formación en ciencia de los niños y jóvenes.&lt;/p&gt;
 &lt;p&gt;Es por esto, que para el año 2019, nos uniremos a las distintas
 conmemoraciones asociadas a la historia de la astronomía y ciencia en general
 como lo son los 100 años de la Unión Internacional de Astronomía y los 50 años
 de la llegada del hombre a la luna.&lt;/p&gt;
-&lt;div class="section" id="horas-de-astronomia"&gt;
+&lt;section id="horas-de-astronomia"&gt;
 &lt;h2&gt;100 horas de astronomía&lt;/h2&gt;
 &lt;p&gt;Este es el primer programa al cual nos uniremos, siendo desarrollado a nivel
 mundial entre el 10 y 13 de enero de 2019. En nuestro caso particular,
@@ -23,15 +23,15 @@ Colombia, puedes consultar la página de la
 #100HoursOfAstronomy, y nuestro usuario @scaliburco en
 &lt;a class="reference external" href="https://twitter.com/scaliburco"&gt;twitter&lt;/a&gt; y
 &lt;a class="reference external" href="https://www.facebook.com/scaliburco/"&gt;facebook&lt;/a&gt; (Organización Scalibur).&lt;/p&gt;
-&lt;div class="section" id="estetica-de-la-astronomia-armonia-entre-la-ciencia-y-el-arte"&gt;
+&lt;section id="estetica-de-la-astronomia-armonia-entre-la-ciencia-y-el-arte"&gt;
 &lt;h3&gt;Estética de la astronomía: armonía entre la ciencia y el arte&lt;/h3&gt;
 &lt;p&gt;Explora la relación a través de la historia entre los descubrimientos
 científicos y las observaciones en la astronomía y las grandes inspiraciones
 de pintores, músicos y escritores. Ahora puedes ver la astronomía como un
 arte, donde el concepto artístico del color y el sonido aparecen.&lt;/p&gt;
 &lt;p&gt;Hora: 2 p. m.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="taller-las-constelaciones-y-sus-mitos-griegos"&gt;
+&lt;/section&gt;
+&lt;section id="taller-las-constelaciones-y-sus-mitos-griegos"&gt;
 &lt;h3&gt;Taller: Las constelaciones  y sus mitos griegos&lt;/h3&gt;
 &lt;p&gt;Mediante la observación del cielo en una noche clara, este es el primer paso
 para agrupar las estrellas en la forma que son conocidas hoy, constelaciones.
@@ -43,16 +43,16 @@ predefinidos es el participante con su ingenio y creatividad quien los agrupa
 a su manera. Durante el taller, se cuentan las historias que vinculan a
 algunas que encontramos en el cielo acorde a la agrupación moderna.&lt;/p&gt;
 &lt;p&gt;Hora: 3:00 p. m.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="otras-actividades"&gt;
+&lt;/section&gt;
+&lt;section id="otras-actividades"&gt;
 &lt;h3&gt;Otras actividades&lt;/h3&gt;
 &lt;p&gt;No seremos los únicos presentes en 100 horas de astronomía, y el Planetario de
 Medellín no solo nos apoyará a nuestra Organización, sino al
 &lt;a class="reference external" href="https://www.facebook.com/ClubOrionDeAstronomiaDeMedellin/"&gt;Club Orión de Astronomía&lt;/a&gt;
 para el desarrollo de más actividades durante los 3 días de la campaña (jueves
 10, viernes 11 y sábado 12).&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>iau</category><category>planetario de medellín</category><category>unión internacional de astronomía</category><guid>https://www.scaliburco.org/blog/100-horas-de-astronomia/</guid><pubDate>Tue, 25 Dec 2018 16:17:33 GMT</pubDate></item><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
+&lt;/section&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>iau</category><category>planetario de medellín</category><category>unión internacional de astronomía</category><guid>https://www.scaliburco.org/blog/100-horas-de-astronomia/</guid><pubDate>Tue, 25 Dec 2018 16:17:33 GMT</pubDate></item><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
 nivel nacional e internacional ha sido un elemento importante para la formación
 complementaria.&lt;/p&gt;
 &lt;p&gt;Así, es como entre el año anterior y el presente nos hemos integrado a las
@@ -63,7 +63,7 @@ asteroides.&lt;/p&gt;
 grupo el trabajo con lenguaje python para su uso en astronomía. De esta
 actividad, uno de los trabajos desarrollados se presentó a PyCon y fue aprobado
 para conferencia.&lt;/p&gt;
-&lt;div class="section" id="simulador-de-sistemas-planetarios"&gt;
+&lt;section id="simulador-de-sistemas-planetarios"&gt;
 &lt;h2&gt;Simulador de sistemas planetarios&lt;/h2&gt;
 &lt;p&gt;Santiago Mesa, es un joven de 16 años que se encuentra en grado 11 y lleva
 5 años con el grupo Scalibur (nuestro grupo de ciencia). Su proyecto para el
@@ -83,8 +83,8 @@ participación y ser el conferencista más joven del evento.&lt;/p&gt;
 &lt;a class="reference external" href="https://github.com/samez21/leyes-kepler"&gt;repositorio github&lt;/a&gt;
 en el cual se encuentra alojado el código y que seguirá actualizándose conforme
 avanza el proceso de aprendizaje de Santiago.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="jupyter-notebook-en-el-aula-de-clase"&gt;
+&lt;/section&gt;
+&lt;section id="jupyter-notebook-en-el-aula-de-clase"&gt;
 &lt;h2&gt;Jupyter Notebook en el aula de clase&lt;/h2&gt;
 &lt;p&gt;Por parte de nuestra organización, también participó en PyCon Colombia 2018,
 Edward Villegas-Pulgarin, vicepresidente de la organización, con su conferencia
@@ -96,19 +96,19 @@ proyecto Jupyter Notebook.&lt;/p&gt;
 el código de apoyo y ejecutarlo en tu equipo o en línea a través de MyBinder.
 Igualmente, puedes ver la presentación en
 &lt;a class="reference external" href="https://es.slideshare.net/cosmoscalibur/usando-notebook-en-el-aula)"&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Charla: ¿Qué son esos puntos blancos en el cielo y por qué son importantes?</title><link>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La Organización Scalibur para la Investigación y la ciencia invita a su Junta Directiva, beneficiarios y público en general a participar de la charla de divulgación &lt;em&gt;¿Qué son esos puntos blancos en el cielo y por qué son importantes?&lt;/em&gt;, en el espacio habitual de las reuniones de la Sociedad Julio Garavito y dictada por el astrónomo &lt;a class="reference external" href="http://astronomia-udea.co/principal/es/EstebanSilva"&gt;Esteban Silva-Villa&lt;/a&gt; (profesor de la Universidad de Antioquia).&lt;/p&gt;
-&lt;div class="admonition important"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Charla: ¿Qué son esos puntos blancos en el cielo y por qué son importantes?</title><link>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La Organización Scalibur para la Investigación y la ciencia invita a su Junta Directiva, beneficiarios y público en general a participar de la charla de divulgación &lt;em&gt;¿Qué son esos puntos blancos en el cielo y por qué son importantes?&lt;/em&gt;, en el espacio habitual de las reuniones de la Sociedad Julio Garavito y dictada por el astrónomo &lt;a class="reference external" href="http://astronomia-udea.co/principal/es/EstebanSilva"&gt;Esteban Silva-Villa&lt;/a&gt; (profesor de la Universidad de Antioquia).&lt;/p&gt;
+&lt;aside class="admonition important"&gt;
 &lt;p class="admonition-title"&gt;Importante&lt;/p&gt;
 &lt;p&gt;Por este motivo, y en vista de la pertinencia de la charla en el proceso formativo de nuestros beneficiarios, la reunión habitual de nuestro grupo se cancela para favorecer la participación en la charla.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resumen"&gt;
+&lt;/aside&gt;
+&lt;section id="resumen"&gt;
 &lt;h2&gt;Resumen&lt;/h2&gt;
 &lt;p&gt;La Humanidad ha estado fascinada por el cielo desde el principio de nuestra civilización. Descubrir que esos puntos blancos en el cielo son estrellas iguales a nuestro sol nos ha llevado a entender nuestro Universo. En esta charla hablaremos particularmente sobre la Astrofísica Estelar, aquella dedicada al estudio de las estrellas, su evolución y relevancia en el Universo. Tocaremos algunos temas de investigación específicos que se están (o se han) desarrollando con estudiantes del programa de pregrado y postgrado en Astronomía.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="lugar-y-hora"&gt;
+&lt;/section&gt;
+&lt;section id="lugar-y-hora"&gt;
 &lt;h2&gt;Lugar y hora&lt;/h2&gt;
 &lt;p&gt;La charla se realizará en el Auditorio del Planetario de Medellín a las 11 A.M.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>charla</category><category>divulgación</category><category>sociedad julio garavito</category><guid>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</guid><pubDate>Thu, 23 Nov 2017 01:45:21 GMT</pubDate></item><item><title>Campamento astronómico en Comfenalco Andes</title><link>https://www.scaliburco.org/blog/campamento-astronomico-en-comfenalco-andes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Vive una experiencia llena de estrellas este mes de julio, antes del fin de tus vacaciones de la universidad en el municipio de Andes.  &lt;/p&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>charla</category><category>divulgación</category><category>sociedad julio garavito</category><guid>https://www.scaliburco.org/blog/charla-que-son-esos-puntos-blancos-en-el-cielo-y-por-que-son-importantes/</guid><pubDate>Thu, 23 Nov 2017 01:45:21 GMT</pubDate></item><item><title>Campamento astronómico en Comfenalco Andes</title><link>https://www.scaliburco.org/blog/campamento-astronomico-en-comfenalco-andes/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Vive una experiencia llena de estrellas este mes de julio, antes del fin de tus vacaciones de la universidad en el municipio de Andes.  &lt;/p&gt;
 &lt;h2&gt;Evento&lt;/h2&gt;
 &lt;p&gt;Comfenalco y la &lt;a href="https://www.facebook.com/corpfenix/"&gt;Corporación Fénix&lt;/a&gt; nos invitan a un campamento astronómico este 29 de julio a partir de las 3 P.M. en el ecoparque Mario Aramburo Restrepo (municipio de Andes).  &lt;/p&gt;
 &lt;p&gt;Nos esperan actividades como:  &lt;/p&gt;

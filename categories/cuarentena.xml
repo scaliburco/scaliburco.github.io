@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre cuarentena)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/cuarentena.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre cuarentena)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/cuarentena.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 26 Mar 2021 20:47:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Scalibur en la cuarentena</title><link>https://www.scaliburco.org/blog/scalibur-en-la-cuarentena/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Desde la Organización Scalibur deseamos que todos se encuentren bien de salud
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 30 Mar 2022 00:54:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Scalibur en la cuarentena</title><link>https://www.scaliburco.org/blog/scalibur-en-la-cuarentena/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;Desde la Organización Scalibur deseamos que todos se encuentren bien de salud
 y siguiendo las recomendaciones de las autoridades para mantener controlada la
 propagación del Covid19.&lt;/p&gt;
 &lt;p&gt;Nos anticipamos a la cuarentena cancelando la sesión del 14 de marzo, y para el
@@ -14,7 +14,9 @@ todos los sábados de la cuarentena de este espacio de compartir que estaremos
 notificando a través de redes sociales, para confirmar el enlace de conexión y
 manteniendo la hora de reunión tradicional (2 p. m.) con duración máxima de 2
 horas.&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
+&lt;figure class="align-center"&gt;
 &lt;img alt="Primera sesión virtual de la Organización Scalibur durante la cuarentena." src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/90914023_2624942094456947_3318134670230552576_o.png?_nc_cat=107&amp;amp;_nc_sid=8024bb&amp;amp;_nc_eui2=AeFDIya25-q9ALnPXwnDQwIUMm0ewMOPA3sybR7Aw48De8oJe5A2_ANByE2kXdLWykpqyYZjPe1XUvdsmvuYYmo3&amp;amp;_nc_oc=AQlHafX1M-js56AF55SxPxArzEpBvlqi3KoXZtOV-JHjhdFDwhGtqBs4d0taFKuvLcI&amp;amp;_nc_ht=scontent.feoh1-1.fna&amp;amp;oh=ae1fda4a96694eea8b66d4da8a90662c&amp;amp;oe=5F0E0DE0" style="width: 600px; height: 450px;"&gt;
-&lt;p class="caption"&gt;Primera sesión virtual de la Organización Scalibur durante la cuarentena.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>covid19</category><category>cuarentena</category><category>divulgación</category><guid>https://www.scaliburco.org/blog/scalibur-en-la-cuarentena/</guid><pubDate>Tue, 31 Mar 2020 02:20:23 GMT</pubDate></item></channel></rss>
+&lt;figcaption&gt;
+&lt;p&gt;Primera sesión virtual de la Organización Scalibur durante la cuarentena.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/div&gt;</description><category>covid19</category><category>cuarentena</category><category>divulgación</category><guid>https://www.scaliburco.org/blog/scalibur-en-la-cuarentena/</guid><pubDate>Tue, 31 Mar 2020 02:20:23 GMT</pubDate></item></channel></rss>

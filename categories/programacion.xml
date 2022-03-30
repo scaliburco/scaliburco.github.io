@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre programación)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/programacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Organización Scalibur (Publicaciones sobre programación)</title><link>https://www.scaliburco.org/</link><description></description><atom:link href="https://www.scaliburco.org/categories/programacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2022 &lt;a href="mailto:scaliburco@gmail.com"&gt;Organización Scalibur&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Fri, 26 Mar 2021 20:47:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 30 Mar 2022 00:54:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Scalibur en PyCon 2018</title><link>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La participación de nuestros integrantes en distintas actividades académicas de
 nivel nacional e internacional ha sido un elemento importante para la formación
 complementaria.&lt;/p&gt;
 &lt;p&gt;Así, es como entre el año anterior y el presente nos hemos integrado a las
@@ -14,7 +14,7 @@ asteroides.&lt;/p&gt;
 grupo el trabajo con lenguaje python para su uso en astronomía. De esta
 actividad, uno de los trabajos desarrollados se presentó a PyCon y fue aprobado
 para conferencia.&lt;/p&gt;
-&lt;div class="section" id="simulador-de-sistemas-planetarios"&gt;
+&lt;section id="simulador-de-sistemas-planetarios"&gt;
 &lt;h2&gt;Simulador de sistemas planetarios&lt;/h2&gt;
 &lt;p&gt;Santiago Mesa, es un joven de 16 años que se encuentra en grado 11 y lleva
 5 años con el grupo Scalibur (nuestro grupo de ciencia). Su proyecto para el
@@ -34,8 +34,8 @@ participación y ser el conferencista más joven del evento.&lt;/p&gt;
 &lt;a class="reference external" href="https://github.com/samez21/leyes-kepler"&gt;repositorio github&lt;/a&gt;
 en el cual se encuentra alojado el código y que seguirá actualizándose conforme
 avanza el proceso de aprendizaje de Santiago.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="jupyter-notebook-en-el-aula-de-clase"&gt;
+&lt;/section&gt;
+&lt;section id="jupyter-notebook-en-el-aula-de-clase"&gt;
 &lt;h2&gt;Jupyter Notebook en el aula de clase&lt;/h2&gt;
 &lt;p&gt;Por parte de nuestra organización, también participó en PyCon Colombia 2018,
 Edward Villegas-Pulgarin, vicepresidente de la organización, con su conferencia
@@ -47,20 +47,20 @@ proyecto Jupyter Notebook.&lt;/p&gt;
 el código de apoyo y ejecutarlo en tu equipo o en línea a través de MyBinder.
 Igualmente, puedes ver la presentación en
 &lt;a class="reference external" href="https://es.slideshare.net/cosmoscalibur/usando-notebook-en-el-aula)"&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Reunión de grupo 20170902</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas-Pulgarin.&lt;/p&gt;
-&lt;div class="section" id="leyes-de-kepler"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>pycon colombia</category><category>python</category><guid>https://www.scaliburco.org/blog/scalibur-en-pycon-2018/</guid><pubDate>Sat, 17 Feb 2018 20:24:21 GMT</pubDate></item><item><title>Reunión de grupo 20170902</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;En esta sesión continuamos con el tema de medición de distancias a los cuerpos y la introducción a la programación, ambas actividades dirigidas por Edward Villegas-Pulgarin.&lt;/p&gt;
+&lt;section id="leyes-de-kepler"&gt;
 &lt;h2&gt;Leyes de Kepler&lt;/h2&gt;
 &lt;p&gt;Se discute como el factor de la distancia de los cuerpos influye en la forma de  determinar su distancia. De manera general se observa que las distancias más cortas de cuerpos celestes representan cuerpos en los cuales sus movimientos son apreciables y por ende una metodología como la hasta ahora discutida usando trigonometría (paralaje) no es funcional.&lt;/p&gt;
 &lt;p&gt;En este caso, se debe tener información del movimiento para poder determinar la distancia. Un ejemplo de este caso, es justo el uso de las leyes de Kepler para determinar la distancia de los cuerpos al sol, cuando esté último es el cuerpo central. Se comenta históricamente la aproximación empírica de Titius-Bode y la importancia de la acumulación de los datos de Tycho Brahe.&lt;/p&gt;
 &lt;p&gt;Se realiza un ejercicio rápido de cálculo de distancia conociendo el periodo de Saturno. Se discutirá en detalle cada una de las leyes de Kepler en las siguientes sesiones.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="programacion"&gt;
+&lt;/section&gt;
+&lt;section id="programacion"&gt;
 &lt;h2&gt;Programación&lt;/h2&gt;
 &lt;p&gt;En este punto se comenta brevemente de manera histórica como el desarrollo de hardware inicial en Estados Unidos llevo a implicaciones hoy aplicables, como la codificación de caracteres y restricción de uso de ciertos caracteres especiales. Se menciona brevemente el código ASCII y UTF-8.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</guid><pubDate>Sun, 03 Sep 2017 04:30:32 GMT</pubDate></item><item><title>Reunión de grupo 20170805</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170805/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La sesión inicia con indicaciones generales sobre actividades que nos esperan en este mes de agosto y de las actividades a las cuales se dará continuidad.&lt;/p&gt;
-&lt;div class="section" id="agosto"&gt;
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170902/</guid><pubDate>Sun, 03 Sep 2017 04:30:32 GMT</pubDate></item><item><title>Reunión de grupo 20170805</title><link>https://www.scaliburco.org/blog/reunion-de-grupo-20170805/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La sesión inicia con indicaciones generales sobre actividades que nos esperan en este mes de agosto y de las actividades a las cuales se dará continuidad.&lt;/p&gt;
+&lt;section id="agosto"&gt;
 &lt;h2&gt;Agosto&lt;/h2&gt;
-&lt;div class="section" id="jardin-botanico"&gt;
+&lt;section id="jardin-botanico"&gt;
 &lt;h3&gt;Jardín botánico&lt;/h3&gt;
 &lt;p&gt;Como empezó a realizarse el semestre anterior, el segundo sábado de cada mes nos dirigimos al jardín botánico. Por eso, nuestra próxima reunión (12 de agosto) si las condiciones son favorables (que no llueva) pasamos del Planetario al Jardín. Esta sesión es práctica y solicitamos asistan con:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -72,25 +72,25 @@ Igualmente, puedes ver la presentación en
 &lt;li&gt;&lt;p&gt;Flexómetro o cinta métrica.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Nos encontramos como de costumbre en planetario, y si no esta lloviendo salimos en grupo a las 11:10 A.M.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="busqueda-de-asteroides"&gt;
+&lt;/section&gt;
+&lt;section id="busqueda-de-asteroides"&gt;
 &lt;h3&gt;Búsqueda de asteroides&lt;/h3&gt;
 &lt;p&gt;Se definen los integrantes del grupo Scalibur que participarán en el programa internacional de búsqueda de asteroides (por primera vez en Colombia) dirigido para niños y jóvenes en edad escolar. El programa inicia con capacitaciones el 19 de agosto, y a mitad de septiembre (y durante un mes) se desarrollarán las actividades respectivas.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="eclipse-de-sol"&gt;
+&lt;/section&gt;
+&lt;section id="eclipse-de-sol"&gt;
 &lt;h3&gt;Eclipse de sol&lt;/h3&gt;
 &lt;p&gt;El 21 de agosto del presente año (día festivo) tendremos la oportunidad de presenciar un eclipse solar parcial, por lo cual se ha definido no realizar la reunión regular el sábado 19 de agosto (entre otras, fecha de capacitación de búsqueda de asteroides) sino que se cambia para el lunes festivo al medio día. Se harán actividades especiales alrededor del tema del eclipse y contaremos con telescopios adaptados con filtros especiales para la observación (con el apoyo del Planetario de Medellín). Esta actividad es de carácter público.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="actividades-de-la-sesion"&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;section id="actividades-de-la-sesion"&gt;
 &lt;h2&gt;Actividades de la sesión&lt;/h2&gt;
 &lt;p&gt;Edward Villegas-Pulgarin realiza una sesión introductoria a la programación en la cual se contextualiza primero la importancia de la programación en la astronomía y otras disciplinas. Luego se discute sobre la diferencia entre un lenguaje humano y un lenguaje de programación, y de como se indican las instrucciones a una máquina. Finalmente, se repasan los operadores aritméticos básicos como parte de fundamentos requeridos para los primeros códigos que se harán más adelante. Paula Nevado se encargará de una sesión sobre lógica proposicional para dar continuidad al tema.&lt;/p&gt;
 &lt;p&gt;Juan Carlos Molina trabaja para finalizar la sesión, con la conferencia TED&lt;sup&gt;x&lt;/sup&gt;: &lt;em&gt;Programar para aprender sin límites&lt;/em&gt;, por Antonio Garcia (2015, a sus 8 años de edad). A continuación, les invitamos a ver la conferencia.&lt;/p&gt;
 &lt;div class="youtube-video align-center"&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9hUjhIfs-bw?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170805/</guid><pubDate>Sun, 06 Aug 2017 03:05:57 GMT</pubDate></item><item><title>Actividad de seguimiento 20161</title><link>https://www.scaliburco.org/blog/actividad-de-seguimiento-20161/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.&lt;/p&gt;
+&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>divulgación</category><category>programación</category><guid>https://www.scaliburco.org/blog/reunion-de-grupo-20170805/</guid><pubDate>Sun, 06 Aug 2017 03:05:57 GMT</pubDate></item><item><title>Actividad de seguimiento 20161</title><link>https://www.scaliburco.org/blog/actividad-de-seguimiento-20161/</link><dc:creator>Edward Villegas-Pulgarin</dc:creator><description>&lt;div&gt;&lt;p&gt;La siguiente actividad fue desarrollada como actividad de seguimiento al proceso de aprendizaje de los beneficiarios en el Grupo Scalibur.&lt;/p&gt;
 &lt;p&gt;Esta actividad representa un recorrido por las distintas temáticas trabajadas en las reuniones habituales durante el primer semestre de 2016 (pero se realizó en el mes de septiembre de 2016). Esta, la versión web, corresponde a la versión del solucionario pero durante la reunión presencial se entregó un formato físico para la solución individual y su posterior discusión grupal (igualmente se habilitó un formulario de google). Las opciones en negrilla son las respuestas correctas.&lt;/p&gt;
-&lt;div class="section" id="programacion"&gt;
+&lt;section id="programacion"&gt;
 &lt;h2&gt;Programación&lt;/h2&gt;
 &lt;p&gt;¿Qué es Scratch? Escoja la opción más acorde.&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
@@ -106,8 +106,8 @@ Igualmente, puedes ver la presentación en
 &lt;li&gt;&lt;p&gt;19.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;9.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-&lt;div class="section" id="astronomia"&gt;
+&lt;/section&gt;
+&lt;section id="astronomia"&gt;
 &lt;h2&gt;Astronomía&lt;/h2&gt;
 &lt;p&gt;¿Qué alfabeto se utiliza para acompañar el nombre de la constelación en la denominación de una estrella principal?&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
@@ -152,8 +152,8 @@ Igualmente, puedes ver la presentación en
 &lt;li&gt;&lt;p&gt;Catadióptrico.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Reflector.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-&lt;div class="section" id="quimica"&gt;
+&lt;/section&gt;
+&lt;section id="quimica"&gt;
 &lt;h2&gt;Química&lt;/h2&gt;
 &lt;p&gt;Al unirse los átomos entre si se forman:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
@@ -169,4 +169,4 @@ Igualmente, puedes ver la presentación en
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Bohr.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Thomson.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>química</category><guid>https://www.scaliburco.org/blog/actividad-de-seguimiento-20161/</guid><pubDate>Sat, 01 Oct 2016 17:24:58 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;&lt;/div&gt;</description><category>astronomía</category><category>programación</category><category>química</category><guid>https://www.scaliburco.org/blog/actividad-de-seguimiento-20161/</guid><pubDate>Sat, 01 Oct 2016 17:24:58 GMT</pubDate></item></channel></rss>
