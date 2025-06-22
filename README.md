@@ -12,18 +12,45 @@ en GitHub.
 
 Para la versión generada consultar la rama `master`.
 
+## Gestión
+
 Debes tener instalado:
 
 - `git`
 - `uv`
 - `just`
 
+### Clonado
+
+Obtenemos primero la rama de código fuente y sincronizamos paquetes para
+generación del sitio estático.
+
 ```
-git clone https://github.com/scaliburco/scaliburco.github.io.git
+git clone -b src https://github.com/scaliburco/scaliburco.github.io.git
 cd scaliburco.github.io
 uv sync
+```
+
+Ahora necesitamos recuperar la rama principal que dispone la página estática
+visualizada
+
+```
+git clone https://github.com/scaliburco/scaliburco.github.io.git output
+```
+
+### Edición
+
+Desde el directorio inicial de la rama `src` podemos hacer las modificaciones de
+archivos. Ten presente que usamos el generador de
+[Nikola](https://getnikola.com/), y los archivos son en formato _MarkDown_
+(`md`) o _reStructuredText_ (`reST`). Una vez realizamos cambios, procedemos a
+compilar o lanzar el servidor local, en ambos casos se generan los archivos
+finales en el directorio `output`. Es preferible lanzar el servidor y validar
+directamente los cambios.
+
+```
 just serve ## O just build
 ```
 
-Los archivos generados se disponen en el directorio `output` que debe usarse
-como manejo para la rama `master` (pendiente mejorar para única rama).
+Una vez validados cambios, procedemos a guardar y subir cambios de ambos
+directorios en sus respectivas ramas (`src` y `master`).
