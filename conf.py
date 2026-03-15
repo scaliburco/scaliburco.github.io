@@ -156,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "scalibur-modern"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1049,7 +1049,7 @@ PRETTY_URLS = True
 
 # Want to use KaTeX instead of MathJax? While KaTeX may not support every
 # feature yet, it's faster and the output looks better.
-USE_KATEX = True
+USE_KATEX = False
 
 # KaTeX auto-render settings. If you want support for the $.$ syntax (wihch may
 # conflict with running text!), just use this config:

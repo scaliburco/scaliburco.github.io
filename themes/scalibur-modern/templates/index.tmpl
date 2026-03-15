@@ -1,0 +1,280 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="index_helper.tmpl"/>
+<%namespace name="math" file="math_helper.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%namespace name="pagination" file="pagination_helper.tmpl"/>
+<%namespace name="feeds_translations" file="feeds_translations_helper.tmpl" import="*"/>
+<%inherit file="base.tmpl"/>
+
+<%block name="extra_head">
+    ${parent.extra_head()}
+    % if posts and (permalink == '/' or permalink == '/' + index_file):
+        <link rel="prefetch" href="${posts[0].permalink()}" type="text/html">
+    % endif
+    ${math.math_styles_ifposts(posts)}
+</%block>
+
+<%block name="content">
+    <%block name="content_header">
+        ${feeds_translations.translation_link(kind)}
+    </%block>
+
+    ## ====== FRONT PAGE: Custom landing sections ======
+    % if 'main_index' in pagekind and is_frontmost_index:
+
+    </div><!-- Close .container from base.tmpl to go full-width -->
+    </main><!-- Close main from base.tmpl -->
+
+    <!-- ====== HERO ====== -->
+    <section class="hero" id="hero">
+      <div class="hero-content">
+        <span class="hero-badge">🚀 Desde 1996 explorando el universo</span>
+        <h1>Descubre el <span class="highlight">Universo</span> con Scalibur</h1>
+        <p>Somos una organización dedicada a despertar la curiosidad científica en niños y jóvenes a través de la astronomía y las ciencias espaciales.</p>
+        <div class="hero-buttons">
+          <a href="#about" class="btn btn-primary">Conócenos ✨</a>
+          <a href="#apod" class="btn btn-secondary">Imagen del Día 🌌</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====== ABOUT ====== -->
+    <section id="about">
+      <div class="container">
+        <div class="section-header reveal">
+          <span class="section-tag">Nuestra Misión</span>
+          <h2>¿Quiénes somos?</h2>
+          <p>Formando jóvenes científicos y exploradores del cosmos</p>
+        </div>
+
+        <div class="about-grid">
+          <div class="about-text reveal">
+            <h3>Organización Scalibur para la Investigación y la Ciencia (O.S.I.)</h3>
+            <p>
+              Somos una organización <strong>sin ánimo de lucro</strong>, no gubernamental, de carácter privado y autónomo, que desde el <strong>25 de noviembre de 1996</strong> se ha dedicado a promover programas de capacitación científica enfocados en desarrollar el espíritu científico, investigador, visionario y emprendedor de la niñez y juventud.
+            </p>
+            <p>
+              Nuestro grupo presencial es de carácter <strong>cerrado y gratuito</strong>, enfocado en la formación en ciencias espaciales. Nos reunimos los días sábados en el <strong>Planetario de Medellín Jesús Emilio Ramírez</strong> de 11 AM a 2 PM.
+            </p>
+            <p>
+              Pueden participar niños y jóvenes en el rango de <strong>10 a 18 años</strong> de edad. Se requiere entrevista de ingreso con asistencia del tutor.
+            </p>
+
+            <div class="about-stats">
+              <div class="stat-card">
+                <div class="stat-number">+28</div>
+                <div class="stat-label">Años activos</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-number">10-18</div>
+                <div class="stat-label">Rango de edad</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-number">🆓</div>
+                <div class="stat-label">Gratuito</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="about-visual reveal">
+            <div class="planet-display">
+              <div class="planet-ring"></div>
+              <div class="planet-core"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====== BLOG / ACTIVIDADES ====== -->
+    <section id="blog">
+      <div class="container">
+        <div class="section-header reveal">
+          <span class="section-tag">Blog & Actividades</span>
+          <h2>Lo que hacemos</h2>
+          <p>Nuestras reuniones, charlas y artículos de divulgación científica</p>
+        </div>
+
+        <div class="blog-grid">
+          % for post in posts[:6]:
+          <article class="blog-card reveal">
+            <div class="card-icon purple">📝</div>
+            <div class="card-date">📅 ${post.formatted_date(date_format)|h}</div>
+            <h3>${post.title()|h}</h3>
+            <p>${post.text(teaser_only=True, strip_html=True)[:200]}…</p>
+            <a href="${post.permalink()}" class="card-link">
+              Leer más →
+            </a>
+          </article>
+          % endfor
+        </div>
+
+        % if len(posts) > 6 or page_links:
+        <div style="text-align: center; margin-top: 48px;">
+          <a href="/archive.html" class="btn btn-secondary">Ver archivo completo →</a>
+        </div>
+        % endif
+      </div>
+    </section>
+
+    <!-- ====== APOD ====== -->
+    <section id="apod">
+      <div class="container">
+        <div class="section-header reveal">
+          <span class="section-tag">NASA · Imagen del Día</span>
+          <h2>APOD — Astronomy Picture of the Day</h2>
+          <p>La imagen astronómica del día proporcionada por la NASA</p>
+        </div>
+
+        <div class="apod-container reveal">
+          <div class="apod-image-wrapper">
+            <div class="apod-loader" id="apod-loader">
+              <div class="apod-spinner"></div>
+              <span>Cargando imagen…</span>
+            </div>
+            <img id="apod-image" src="" alt="APOD - Imagen astronómica del día">
+          </div>
+          <div class="apod-info">
+            <h3 id="apod-title">Cargando…</h3>
+            <div class="apod-date" id="apod-date">📅</div>
+            <div class="apod-explanation" id="apod-explanation">
+              Conectando con la API de la NASA para traer la imagen astronómica del día…
+            </div>
+            <div class="apod-credit" id="apod-credit"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====== CONTACT ====== -->
+    <section id="contact">
+      <div class="container">
+        <div class="section-header reveal">
+          <span class="section-tag">Contáctanos</span>
+          <h2>Conecta con nosotros</h2>
+          <p>Establece contacto a través de nuestros medios oficiales</p>
+        </div>
+
+        <div class="contact-grid reveal">
+          <!-- Info Card -->
+          <div class="contact-info-card">
+            <h3>Información de contacto</h3>
+            <p>Escríbenos con claridad indicando asunto, motivo de contacto, tu nombre y formas alternas de contacto.</p>
+
+            <div class="contact-item">
+              <div class="contact-icon">📧</div>
+              <div class="contact-item-text">
+                <div class="label">Correo electrónico</div>
+                <div class="value"><a href="mailto:scaliburco@gmail.com">scaliburco@gmail.com</a></div>
+              </div>
+            </div>
+
+            <div class="contact-item">
+              <div class="contact-icon">📍</div>
+              <div class="contact-item-text">
+                <div class="label">Sede</div>
+                <div class="value">Planetario de Medellín Jesús Emilio Ramírez</div>
+              </div>
+            </div>
+
+            <div class="contact-item">
+              <div class="contact-icon">🕐</div>
+              <div class="contact-item-text">
+                <div class="label">Horario de reuniones</div>
+                <div class="value">Sábados, 11:00 AM – 2:00 PM</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Social Card -->
+          <div class="social-card">
+            <h3>Redes sociales</h3>
+            <p>Síguenos para estar al día con nuestras publicaciones y actividades.</p>
+
+            <div class="social-links">
+              <a href="https://www.facebook.com/scaliburco/" target="_blank" rel="noopener" class="social-link" id="link-facebook">
+                <span class="social-icon">📘</span> Facebook
+              </a>
+              <a href="https://twitter.com/scaliburco" target="_blank" rel="noopener" class="social-link" id="link-twitter">
+                <span class="social-icon">🐦</span> Twitter / X
+              </a>
+              <a href="https://www.youtube.com/channel/UCoaunpoMtJe6dtDNLGOBtuQ/featured" target="_blank" rel="noopener" class="social-link" id="link-youtube">
+                <span class="social-icon">🎬</span> YouTube
+              </a>
+              <a href="https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Scalibur" target="_blank" rel="noopener" class="social-link" id="link-wikipedia">
+                <span class="social-icon">📖</span> Wikipedia
+              </a>
+              <a href="https://www.slideshare.net/ScaliburCo" target="_blank" rel="noopener" class="social-link" id="link-slideshare">
+                <span class="social-icon">📊</span> SlideShare
+              </a>
+              <a href="mailto:scaliburco@gmail.com" class="social-link" id="link-email">
+                <span class="social-icon">✉️</span> Email
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    ## Re-open the tags that base.tmpl expects to close
+    <main id="content-resume" style="display:none;">
+    <div class="container">
+
+    ## ====== PAGINATED PAGES: Standard post list ======
+    % else:
+
+    % if 'main_index' in pagekind:
+        ${front_index_header}
+    % endif
+    % if page_links:
+        ${pagination.page_navigation(current_page, page_links, prevlink, nextlink, prev_next_links_reversed)}
+    % endif
+    <div class="postindex">
+        % for post in posts:
+            <article class="h-entry post-${post.meta('type')}" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <header>
+                <h1 class="p-name entry-title"><a href="${post.permalink()}" class="u-url">${post.title()|h}</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                    % if author_pages_generated and multiple_authors_per_post:
+                        % for author in post.authors():
+                            <a href="${_link('author', author)}">${author|h}</a>
+                        % endfor
+                    % elif author_pages_generated:
+                        <a href="${_link('author', post.author())}">${post.author()|h}</a>
+                    % else:
+                        ${post.author()|h}
+                    % endif
+                    </span></p>
+                    <p class="dateline">
+                    <a href="${post.permalink()}" rel="bookmark">
+                    <time class="published dt-published" datetime="${post.formatted_date('webiso')}" itemprop="datePublished" title="${post.formatted_date(date_format)|h}">${post.formatted_date(date_format)|h}</time>
+                    % if post.updated and post.updated != post.date:
+                        <span class="updated"> (${messages("updated")}
+                            <time class="dt-updated" datetime="${post.formatted_updated('webiso')}" itemprop="dateUpdated" title="${post.formatted_updated(date_format)|h}">${post.formatted_updated(date_format)|h}</time>)</span>
+                    % endif
+                    </a>
+                    </p>
+                    % if not post.meta('nocomments') and site_has_comments:
+                        <p class="commentline">${comments.comment_link(post.permalink(), post._base_path)}
+                    % endif
+                </div>
+            </header>
+            %if index_teasers:
+                <div class="p-summary entry-summary">
+                    ${post.text(teaser_only=True)}
+                </div>
+            %else:
+                <div class="e-content entry-content">
+                    ${post.text(teaser_only=False)}
+                </div>
+            %endif
+            </article>
+        % endfor
+    </div>
+    ${helper.html_pager()}
+    ${comments.comment_link_script()}
+    ${math.math_scripts_ifposts(posts)}
+
+    % endif
+</%block>
