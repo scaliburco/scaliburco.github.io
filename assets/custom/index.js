@@ -138,11 +138,9 @@ async function loadAPOD() {
       imgEl.src = data.hdurl || data.url;
       imgEl.alt = data.title;
       imgEl.onload = () => { if (loader) loader.style.display = 'none'; };
-    } else {
-      // For videos, show a thumbnail or placeholder
-      imgEl.src = data.thumbnail_url || '';
-      imgEl.alt = data.title;
-      if (loader) loader.innerHTML = `<span>🎬</span><span>El APOD de hoy es un video</span>`;
+    } else if (data.media_type === 'video') {
+      imgEl.style.display = 'none';
+      if (loader) loader.innerHTML = `<span>🎬</span><span>El APOD de hoy es un video</span><a href="${data.url}" target="_blank" rel="noopener" style="color:var(--accent-gold);margin-top:8px;">Ver video original →</a>`;
     }
 
     if (titleEl) titleEl.textContent = data.title || 'Sin título';
